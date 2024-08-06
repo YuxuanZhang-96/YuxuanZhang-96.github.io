@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuxuan Zhang (张宇轩)"
 title_separator          : "-"
-name                     : &name "Yuxuan Zhang"
+name                     : &name "Yuxuan Zhang (张宇轩)"
 description              : &description "personal description"
 url                      : https://yuxuanzhang-96.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuxuan Zhang"
+  name             : "Yuxuan Zhang (张宇轩)"
   bio              : "Doctoral student in Electronics (Tiny Machine Learning & Structural Health Monitoring fields)"
   location         : "Sweden"
   employer         : "Mid Sweden University"
