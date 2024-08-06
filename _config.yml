@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan Zhang / PhD student in Electronic"
+title                    : "Yuxuan Zhang / PhD student in Electronics"
 title_separator          : "-"
 name                     : &name "Yuxuan Zhang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuxuan Zhang"
-  bio              : "Scientist in Tiny Machine Learning and Structural Health Monitoring ."
+  bio              : "Researcher in Tiny Machine Learning and Structural Health Monitoring ."
   location         : "Sweden"
   employer         : "Mid Sweden University"
   uri              : "https://www.miun.se/Personal/z/yuxuanzhang/"
