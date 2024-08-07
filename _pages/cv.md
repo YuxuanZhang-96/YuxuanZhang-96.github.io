@@ -43,7 +43,7 @@ __Conference Papers__
 6. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "[A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions](https://ieeexplore.ieee.org/document/9881386)." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6. (oral)
 
 __Licentiate Thesis, Comprehensive Summaries__
-1. __Yuxuan Zhang__. (2024). "Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204)
+1. __Yuxuan Zhang__. (2024). "[Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1857441&dswid=-6455)." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204)
 
 *Corresponding author
 
