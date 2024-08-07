@@ -35,11 +35,11 @@ __Journal Papers__
 3. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "[Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices](https://ieeexplore.ieee.org/document/10227301)." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
    
 __Conference Papers__
-1. Uditha Muthumala, __Yuxuan Zhang__, Luciano Sebastian Martinez Rau and Sebastian Bader*. (2024). "Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis." In _2024 IEEE 10th World Forum on Internet of Things (WF-IoT)_, 1-6. (accepted)
-2. Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "Enabling Autonomous Structural Inspections with Tiny Machine Learning on UAVs." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
+1. Uditha Muthumala, __Yuxuan Zhang__, Luciano Sebastian Martinez Rau and Sebastian Bader*. (2024). "Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis." In _2024 IEEE 10th World Forum on Internet of Things (WF-IoT)_, 1-6. (accepted, oral)
+2. Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "Enabling Autonomous Structural Inspections with Tiny Machine Learning on UAVs." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted, oral)
 3. __Yuxuan Zhang__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader*. (2024). "TinyML Anomaly Detection for Industrial Machines with Periodic Duty Cycles." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted, poster)
-4. Veysi Adin, __Yuxuan Zhang__, Bruno Ando, Bengt Oelmann, Sebastian Bader*. (2023). "[Tiny Machine Learning for Real-Time Postural Stability Analysis](https://ieeexplore.ieee.org/document/10254126)." In _2023 IEEE Sensors Applications Symposium (SAS)_, 1-6.
-5. Veysi Adin, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2023). "[Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals](https://ieeexplore.ieee.org/document/10175972)." In _2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
+4. Veysi Adin, __Yuxuan Zhang__, Bruno Ando, Bengt Oelmann, Sebastian Bader*. (2023). "[Tiny Machine Learning for Real-Time Postural Stability Analysis](https://ieeexplore.ieee.org/document/10254126)." In _2023 IEEE Sensors Applications Symposium (SAS)_, 1-6. (oral)
+5. Veysi Adin, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2023). "[Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals](https://ieeexplore.ieee.org/document/10175972)." In _2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6. (poster)
 6. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "[A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions](https://ieeexplore.ieee.org/document/9881386)." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6. (oral)
 
 __Licentiate Thesis, Comprehensive Summaries__
