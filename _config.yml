@@ -26,7 +26,7 @@ author:
   bio              : "Doctoral student in Electronics at Mid Sweden University"
   location         : "Sweden"
   employer         : "Mid Sweden University"
-  uri              : "https://www.miun.se/Personal/z/yuxuanzhang/"
+  #uri              : "https://www.miun.se/Personal/z/yuxuanzhang/"
   email            : "thyme.zh@gmail.com" 
 
   # Academic websites
