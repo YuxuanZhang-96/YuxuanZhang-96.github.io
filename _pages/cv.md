@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* 2021.01-now: Doctoral Student
+  * Mid Sweden University, Sundsvall, Sweden.     
 * 2020.05-2020.12: Assistant Engineer
   * Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
 
