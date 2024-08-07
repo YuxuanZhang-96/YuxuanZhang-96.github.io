@@ -43,4 +43,6 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Session chair in 2022 IEEE Sensors Applications Symposium.
+* Student member of IEEE Instrumentation and Measurement Society.
+* Reviewer of Neural Computing and Applications and 2024 IEEE Sensors Applications Symposium.
