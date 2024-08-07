@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuxuan Zhang (张宇轩)"
+  name             : "Yuxuan Zhang"
   bio              : "Doctoral student in Electronics at Mid Sweden University/Mittuniversitetet (Tiny Machine Learning & Structural Health Monitoring fields)"
   location         : "Sweden"
   employer         : "Mid Sweden University"
