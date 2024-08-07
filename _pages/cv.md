@@ -23,8 +23,8 @@ Work experience
 
 Skills
 ======
-* Machine & Deep Learning: TensorFlow, Pytorch, Scikit-learn
-* Coding： Python, C/C++, MATLAB, Verilog HDL
+* ML&DL: TensorFlow, Pytorch, Scikit-learn
+* Coding: Python, C/C++, MATLAB, Verilog HDL
 * Fields: Structural Health Monitoring, Fault Diagnosis (time series and visiual signal)
 
 Publications
