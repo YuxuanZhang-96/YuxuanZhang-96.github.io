@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Ph.D** in Electronics, Mid Sweden University, Sweden, 2021.01-2025.10 (expected)
-* **Lic.** in Electronics, Mid Sweden University, Sweden, 2021.01-2024.06
-* **M.Sc** in Embedded Systems Engineering, University of Leeds, UK, 2018.09-2019.12
-* **B.Eng.** in New Energy Science & Engineering, Beijing Information Science & Technology University, China, 2014.09-2018.06
+* **Ph.D** in Electronics, Mid Sweden University, Sweden, 2025.10 (expected)
+* **Lic.** in Electronics, Mid Sweden University, Sweden, 2024
+* **M.Sc** in Embedded Systems Engineering, University of Leeds, UK, 2019
+* **B.Eng.** in New Energy Science & Engineering, Beijing Information Science & Technology University, China, 2018
 
 Work experience
 ======
