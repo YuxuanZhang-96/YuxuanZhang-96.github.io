@@ -11,53 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronics, Mid Sweden University, Sweden, 2025 (expected)
+* Lic. in Electronics, Mid Sweden University, Sweden, 2024
+* M.Sc in Embedded Systems Engineering, University of Leeds, UK, 2019
+* B.Eng. in New Energy Science & Engineering, Beijing Information Science & Technology University, China, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020.05-2020.12: Assistant Engineer
+  * Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine & Deep Learning
+* Coding
+  * Python
+  * C/C++
+  * MATLAB
+  * Verilog HDL
+* Time series and visiual signal processing
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Chengjie Huang, Xinjuan Sun, Yuxuan Zhang. (2024). "Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring." Sensors 24 (13), 4124.
+2. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, Yuxuan Zhang, Zhenbo Chen. (2024). "Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images." Sensors 24 (11), 3428.
+3. Yuxuan Zhang, Veysi Adin, Sebastian Bader, Bengt Oelmann. (2023). "Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices." IEEE Transactions on Instrumentation and Measurement (2023), 1-8.
+4. Veysi Adin, Yuxuan Zhang, Bruno Ando, Bengt Oelmann, Sebastian Bader. (2023). "Tiny Machine Learning for Real-Time Postural Stability Analysis." 2023 IEEE Sensors Applications Symposium (SAS), 1-6.
+5. Veysi Adin, Yuxuan Zhang, Bengt Oelmann, Sebastian Bader. (2023). "Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals." 2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 1-6.
+6. Yuxuan Zhang, Sebastian Bader, Bengt Oelmann. (2022). "A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions." 2022 IEEE Sensors Applications Symposium (SAS), 1-6.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
