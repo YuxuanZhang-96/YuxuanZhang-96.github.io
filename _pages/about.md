@@ -13,7 +13,7 @@ My research interests include miniature machine learning, i.e., implementing mac
 
 Background
 ======
-I received my Lic. in electronics from Mid Sweden University (Sweden, 2024), my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. in the New Energy Science & Engineering program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 month.
+I received my Lic. in electronics from Mid Sweden University (Sweden, 2024), my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. in the New Energy Science & Engineering program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
 
 I am currently a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/).
 
