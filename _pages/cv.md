@@ -33,6 +33,7 @@ __Articles in journals__
 1. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
 2. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images." _Sensors_, 24(11), 3428. __(JCR Q2, 中科院3区)__
 3. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
+   
 __Conference papers__
 1. Uditha Muthumala, __Yuxuan Zhang__, Luciano Sebastian Martinez Rau and Sebastian Bader*. (2024). "Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis." In _2024 IEEE 10th World Forum on Internet of Things (WF-IoT)_, 1-6. (accepted)
 2. Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "Enabling Autonomous Structural Inspections with Tiny Machine Learning on UAVs." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
