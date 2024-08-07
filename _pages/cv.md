@@ -29,7 +29,7 @@ Skills
 
 Publications
 ======
-__Articles in journals__
+__Journal papers__
 1. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
 2. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images." _Sensors_, 24(11), 3428. __(JCR Q2, 中科院3区)__
 3. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
