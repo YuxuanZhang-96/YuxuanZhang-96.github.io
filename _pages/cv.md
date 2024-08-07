@@ -41,7 +41,10 @@ __Conference Papers__
 4. Veysi Adin, __Yuxuan Zhang__, Bruno Ando, Bengt Oelmann, Sebastian Bader*. (2023). "Tiny Machine Learning for Real-Time Postural Stability Analysis." In _2023 IEEE Sensors Applications Symposium (SAS)_, 1-6.
 5. Veysi Adin, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2023). "Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals." In _2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
 6. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6.
-  
+
+__Licentiate Thesis, Comprehensive Summaries__
+1. __Yuxuan Zhang__. (2024). "Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204
+
 *Corresponding author
 
 Service and leadership
