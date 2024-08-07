@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2022-09-12
 venue: '2022 IEEE Sensors Applications Symposium (SAS)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9881386'
 ---
 
