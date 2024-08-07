@@ -29,12 +29,15 @@ Skills
 
 Publications
 ======
-1. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
-2. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images." _Sensors_, 24(11), 3428. __(JCR Q2, 中科院3区)__
-3. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
-4. Veysi Adin, __Yuxuan Zhang__, Bruno Ando, Bengt Oelmann, Sebastian Bader*. (2023). "Tiny Machine Learning for Real-Time Postural Stability Analysis." In _2023 IEEE Sensors Applications Symposium (SAS)_, 1-6.
-5. Veysi Adin, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2023). "Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals." In _2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
-6. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6.
+1. Uditha Muthumala, __Yuxuan Zhang__, Luciano Sebastian Martinez Rau and Sebastian Bader*. (2024). "Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis." In _2024 IEEE 10th World Forum on Internet of Things (WF-IoT)_, 1-6. (accepted)
+2. Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "Enabling Autonomous Structural Inspections with Tiny Machine Learning on UAVs." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
+3. __Yuxuan Zhang__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader*. (2024). "TinyML Anomaly Detection for Industrial Machines with Periodic Duty Cycles." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
+4. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
+5. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images." _Sensors_, 24(11), 3428. __(JCR Q2, 中科院3区)__
+6. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
+7. Veysi Adin, __Yuxuan Zhang__, Bruno Ando, Bengt Oelmann, Sebastian Bader*. (2023). "Tiny Machine Learning for Real-Time Postural Stability Analysis." In _2023 IEEE Sensors Applications Symposium (SAS)_, 1-6.
+8. Veysi Adin, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2023). "Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals." In _2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
+9. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6.
   
 *Corresponding author
 
