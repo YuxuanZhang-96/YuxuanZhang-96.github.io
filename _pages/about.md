@@ -15,7 +15,7 @@ Currently, I am also a student member of the [IEEE Instrumentation and Measureme
 
 Background
 ======
-I received my Lic. in electronics from Mid Sweden University (Sweden, 2024), my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. in the New Energy Science & Engineering program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
+I received my Lic. in electronics from Mid Sweden University (Sweden, 2024), my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. from the [New Energy Science & Engineering](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc) program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
 
 
 Hobbies
@@ -34,7 +34,7 @@ Badminton & Cycling
 
 背景
 ======
-我在2024年6月通过答辩获得了瑞典中部大学的Licentiate in Electronics（介于硕士与博士之间）学位，在2019年11月获得了英国利兹大学的硕士学位（嵌入式系统工程），在2018年7月获得了北京信息科技大学的本科学位（新能源科学与工程）。
+我在2024年6月通过答辩获得了瑞典中部大学的Licentiate in Electronics（介于硕士与博士之间）学位，在2019年11月获得了英国利兹大学的硕士学位（[嵌入式系统工程](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-)），在2018年7月获得了北京信息科技大学的本科学位（[新能源科学与工程](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc)）。
 
 2020年5月-2020年12月，我在中国科学院微电子研究所担任助理工程师。（课题组组长-梁利平研究员及王志君副研究员，2021年被人才引进至北京邮电大学担任领军人才教授，特聘研究员）
 
