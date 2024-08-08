@@ -9,7 +9,7 @@ redirect_from:
 I am currently a PhD student in electronics at the 
 [Department of Computer and Electrical Engineering (DET)](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University/Mittuniversitetet](https://www.miun.se/en/) (from 2021).
 
-My research interests include Tiny Machine Learning, i.e., implementing machine learning algorithms on low-power and very resource-constrained devices, and the application of TinyML to structural health monitoring, inspection and fault diagnosis (time series signals & visual signals).  I have published papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, MDPI Sensors, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
+My research interests include Tiny Machine Learning, i.e., implementing machine learning algorithms on low-power and very resource-constrained devices, and the application of TinyML to structural health monitoring, inspection, and fault diagnosis (time series signals & visual signals).  I have published papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, MDPI Sensors, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
 Currently, I am also a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/).
 
