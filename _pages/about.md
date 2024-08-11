@@ -46,3 +46,4 @@ Badminton & Cycling
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuxuanZhang-96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=YuxuanZhang-96)
