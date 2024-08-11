@@ -44,6 +44,6 @@ Badminton & Cycling
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuxuanZhang-96&layout=compact&hide=javascript,html,scss,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuxuanZhang-96&layout=compact&hide=javascript,html,scss,css,ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=YuxuanZhang-96&color=blue)
