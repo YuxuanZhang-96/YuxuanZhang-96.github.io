@@ -41,3 +41,10 @@ Badminton & Cycling
 爱好
 ======
 羽毛球，骑行。
+
+![Profile views](https://komarev.com/ghpvc/?username=YuxuanZhang-96&color=blue)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuxuanZhang-96&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuxuanZhang-96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
