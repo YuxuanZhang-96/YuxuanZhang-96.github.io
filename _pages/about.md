@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD student in electronics at the 
-[Department of Computer and Electrical Engineering (DET)](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University/Mittuniversitetet](https://www.miun.se/en/) (from 2021).
+[Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University/Mittuniversitetet](https://www.miun.se/en/) (from 2021).
 
 My research interests include Tiny Machine Learning, i.e., implementing machine learning algorithms on low-power and very resource-constrained devices, and its application in structural health monitoring, inspection, and fault diagnosis (time series signals & visual signals).  I have published papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, MDPI SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). I also served as a reviewer for journals and conferences (such as IEEE Sensors Applications Symposium and Neural Computing and Applications).
 
