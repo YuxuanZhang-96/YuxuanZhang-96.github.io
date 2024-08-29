@@ -51,6 +51,6 @@ __Licentiate Thesis, Comprehensive Summaries__
 
 Service and leadership
 ======
-* Session chair, 2022 IEEE Sensors Applications Symposium.
-* Student member, IEEE Instrumentation and Measurement Society.
-* Reviewer, Neural Computing and Applications & 2024 IEEE Sensors Applications Symposium.
+* Session chair - 2022 IEEE Sensors Applications Symposium.
+* Student member - IEEE Instrumentation and Measurement Society, IEEE & Chinese Mechanical Engineering Society.
+* Reviewer - IEEE Sensors Journal, IEEE TIM, IEEE TII, Neural Computing and Applications & 2024 IEEE Sensors Applications Symposium.
