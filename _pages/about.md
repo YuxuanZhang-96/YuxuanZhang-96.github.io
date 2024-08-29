@@ -34,7 +34,7 @@ Badminton & Cycling
 
 背景
 ======
-我在2024年6月通过答辩获得了瑞典中部大学的副博士学位（电子信息）（Licentiate Degree in Electronics, 介于硕士与博士之间）学位，在2019年11月获得了英国利兹大学的硕士学位（[嵌入式系统工程](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-)），在2018年7月获得了北京信息科技大学的本科学位（[新能源科学与工程](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc)）。
+我在2024年通过答辩获得了瑞典中部大学的副博士学位（电子信息）（Licentiate Degree in Electronics, 介于硕士与博士之间）学位，在2019年获得了英国利兹大学的硕士学位（[嵌入式系统工程](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-)），在2018年获得了北京信息科技大学的本科学位（[新能源科学与工程](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc)）。
 
 2020年5月-2020年12月，我在中国科学院微电子研究所通信中心担任助理工程师。
 
