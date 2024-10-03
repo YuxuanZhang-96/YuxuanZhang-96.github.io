@@ -14,7 +14,7 @@ My research interests include Tiny Machine Learning, i.e., implementing machine 
 I also served as a reviewer for journals and conferences (such as IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Industrial Informatics, Mechanical Systems and Signal Processing, Neural Computing and Applications & IEEE Sensors Applications Symposium). And I am a member of 
 Artifact Evaluation Committee (The 22nd ACM Conference on Embedded Networked Sensor Systems - SenSys 2024)
 
-Currently, I am also a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/).
+Currently, I am also a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/)， IEEE, Ieee Sensors Council and Chinese Mechanical Engineering Society.
 
 Background
 ======
@@ -34,7 +34,7 @@ Badminton & Cycling
 
 我同时还在不同期刊和会议担任审稿人（例如IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Industrial Informatics, Mechanical Systems and Signal Processing, Neural Computing and Applications & IEEE Sensors Applications Symposium）。此外，我还是第22届ACM Conference on Embedded Networked Sensor Systems - SenSys 2024 工作组件评估委员会的成员。
 
-目前，我是IEEE仪器测量学会，IEEE学会以及中国机械工程学会的学生会员。
+目前，我是IEEE仪器测量学会，IEEE学会, IEEE传感器理事会以及中国机械工程学会的学生会员。
 
 背景
 ======
