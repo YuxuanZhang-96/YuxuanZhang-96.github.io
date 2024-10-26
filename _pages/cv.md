@@ -53,5 +53,5 @@ Service and leadership
 ======
 * Session chair - 2022 IEEE Sensors Applications Symposium.
 * Student member - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
-* Reviewer - IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Industrial Informatics, Mechanical Systems and Signal Processing, Neural Computing and Applications & IEEE Sensors Applications Symposium.
+* Reviewer - IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Industrial Informatics, Mechanical Systems and Signal Processing, Structural Health Monitoring-An International Journal, Neural Computing and Applications, ACM Conference on Embedded Networked Sensor Systems & IEEE Sensors Applications Symposium.
 * Member - Artifact Evaluation Committee (The 22nd ACM Conference on Embedded Networked Sensor Systems - SenSys 2024)
