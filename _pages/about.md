@@ -17,7 +17,7 @@ Currently, I am also a student member of the [IEEE Instrumentation and Measureme
 
 Background
 ======
-I received my Lic. in electronics from Mid Sweden University (Sweden, 2024), my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. from the [New Energy Science & Engineering](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc) program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
+I received my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. from the [New Energy Science & Engineering](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc) program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
 
 
 Hobbies
@@ -26,7 +26,7 @@ Badminton & Cycling
 
 关于
 ======
-我自2021年1月起是一名电子信息专业的博士生，就读于瑞典中部大学计算机与电气工程学院（同样隶属于STC研究中心）。
+我自2021年1月起是一名电子专业的博士生，就读于瑞典中部大学计算机与电气工程学院（同样隶属于STC研究中心）。
 
 我的研究兴趣包括微型机器学习（TinyML），即在低功耗，资源非常受限的设备（无系统MCUs）上部署机器学习算法，以及TinyML在结构健康监测，检查及故障诊断领域的应用（时间序列信号和视觉信号-声音，图像等）。
 我在IEEE TIM，MDPI SENSORS, IEEE SAS, IEEE I2MTC, IEEE WF-IoT上发表了一系列论文，详情请见Google Scholar或CV中。
@@ -37,7 +37,7 @@ Badminton & Cycling
 
 背景
 ======
-我在2024年通过答辩获得了瑞典中部大学的副博士学位（电子信息）（Licentiate Degree in Electronics, 介于硕士与博士之间）学位，在2019年获得了英国利兹大学的硕士学位（[嵌入式系统工程](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-)），在2018年获得了北京信息科技大学的本科学位（[新能源科学与工程](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc)）。
+我在2019年获得了英国利兹大学的硕士学位（[嵌入式系统工程](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-)），在2018年获得了北京信息科技大学的本科学位（[新能源科学与工程](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc)）。
 
 2020年5月-2020年12月，我在中国科学院微电子研究所通信中心担任助理工程师。
 
