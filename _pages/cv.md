@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education-教育经历
 ======
 * **Ph.D** in Electronics, Mid Sweden University, Sweden, 2021-2025 (expected)
 * **M.Sc** in Embedded Systems Engineering, University of Leeds, UK, 2018-2019
 * **B.Eng.** in New Energy Science & Engineering, Beijing Information Science & Technology University, China, 2014-2018
 
-Work experience
+Work experience-工作经历
 ======
 * 2021.01-now: Doctoral Student
   * Mid Sweden University, Sundsvall, Sweden.     
 * 2020.05-2020.12: Assistant Engineer
   * Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
 
-Skills
+Skills-技能
 ======
 * ML&DL: TensorFlow, Pytorch, Scikit-learn
 * Coding: Python, C/C++, MATLAB, Verilog HDL
 * Fields: Structural Health Monitoring, Fault Diagnosis (time series and visiual signal)
 
-Publications
+Publications-文章发表
 ======
 __Journal Papers__
 1. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "[Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices](https://ieeexplore.ieee.org/document/10227301)." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
@@ -48,11 +48,10 @@ __Conference Papers__
 __Licentiate Thesis, Comprehensive Summaries__
 1. __Yuxuan Zhang__. (2024). "[Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1857441&dswid=-6455)." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204)
 
-*Corresponding author
+*Corresponding author-通信作者
 
-Service and leadership
+Service and leadership-学术服务&其它
 ======
 * Session chair - 2022 IEEE Sensors Applications Symposium.
 * Student member - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
-* Reviewer - IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Industrial Informatics, Mechanical Systems and Signal Processing, Structural Health Monitoring-An International Journal, Neural Computing and Applications, ACM Conference on Embedded Networked Sensor Systems & IEEE Sensors Applications Symposium.
-* Member - Artifact Evaluation Committee (The 22nd ACM Conference on Embedded Networked Sensor Systems - SenSys 2024)
+* Reviewer - IEEE Sensors Journal, IEEE T-IM, IEEE T-II, Mechanical Systems and Signal Processing, Structural Health Monitoring-An International Journal, Expert Systems with Applications, Measurement, Reliability Engineering & System Safety, Information Sciences 和 Engineering Applications of Artificial Intelligence.
