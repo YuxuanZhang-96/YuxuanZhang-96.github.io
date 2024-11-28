@@ -30,14 +30,14 @@ Skills-技能
 
 Publications-文章发表
 ======
-__Journal Papers__
+__Journal Papers-期刊论文__
 1. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "[Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices](https://ieeexplore.ieee.org/document/10227301)." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
 2. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "[Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring](https://www.mdpi.com/1424-8220/24/13/4124)." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
 3. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "[Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images](https://www.mdpi.com/1424-8220/24/11/3428)." _Sensors_, 24(11), 3428. __(JCR Q2, 中科院3区)__
 4. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "[On-device Anomaly Detection in Conveyor Belt Operations]([https://ieeexplore.ieee.org/document/10636584](https://arxiv.org/abs/2411.10729))." Preprint submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
 5. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader*. (2024). "On-device Autonomous Vision-based Crack Detection using TinyML." Preprint submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
   
-__Conference Papers__
+__Conference Papers-会议论文__
 1. Uditha Muthumala, __Yuxuan Zhang__, Luciano Sebastian Martinez Rau and Sebastian Bader*. (2024). "[Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis.](https://arxiv.org/abs/2411.17733)" In _2024 IEEE 10th World Forum on Internet of Things (WF-IoT)_, 1-6. (accepted, oral)
 2. __Yuxuan Zhang__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader*. (2024). "[Enabling Autonomous Structural Inspections with Tiny Machine Learning on UAVs](https://ieeexplore.ieee.org/document/10636583)." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (poster)
 3. Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "[TinyML Anomaly Detection for Industrial Machines with Periodic Duty Cycles](https://ieeexplore.ieee.org/document/10636584)." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. (oral)
