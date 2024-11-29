@@ -32,7 +32,7 @@ Publications - 文章发表
 ======
 __Journal Papers - 期刊论文__
 1. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "[On-device Anomaly Detection in Conveyor Belt Operations]([https://ieeexplore.ieee.org/document/10636584](https://arxiv.org/abs/2411.10729))." Preprint submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
-2. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader*. (2024). "On-device Autonomous Vision-based Crack Detection using TinyML." Preprint submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
+2. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader. (2024). "On-device Autonomous Vision-based Crack Detection using TinyML." Preprint submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
 3. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "[Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring](https://www.mdpi.com/1424-8220/24/13/4124)." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
 4. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "[Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images](https://www.mdpi.com/1424-8220/24/11/3428)." _Sensors_, 24(11), 3428. __(JCR Q2, 中科院3区)__
 5. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "[Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices](https://ieeexplore.ieee.org/document/10227301)." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
