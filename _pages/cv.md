@@ -33,7 +33,7 @@ Publications - 文章发表
 Updated on December 8, 2024
 
 __Journal Papers - 期刊论文__
-1. __Yuxuan Zhang*__, Rhys Pullin, Bengt Oelmann, Sebastian Bader. (2024). "On-Device Real-time Fault Diagnosis for SHM Using Data Augmentation and TinyML: A Case Study on Carbon Fiber Panels." Submitted to _IEEE Transactions on Instrumentation and Measurement_, __(JCR Q1, 中科院1区Top)__
+1. __Yuxuan Zhang*__, Rhys Pullin, Bengt Oelmann, Sebastian Bader. (2024). "On-Device Real-time Fault Diagnosis for SHM Using Data Augmentation and TinyML: A Case Study on Carbon Fiber Panels." Submitted to _IEEE Transactions on Instrumentation and Measurement_, __(JCR Q1, 中科院2区Top)__
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2024). "[On-device Anomaly Detection in Conveyor Belt Operations](https://arxiv.org/abs/2411.10729)." Submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
 3. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader. (2024). "On-device Autonomous Vision-based Crack Detection using TinyML." Submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
 4. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "[Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring](https://www.mdpi.com/1424-8220/24/13/4124)." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
