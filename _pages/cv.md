@@ -11,7 +11,7 @@ redirect_from:
 
 Education - 教育经历
 ======
-* **Ph.D** in Electronics, Mid Sweden University, Sweden, 2021-2025 (expected)
+* **Ph.D** in Electronics, Mid Sweden University, Sweden, 2021-2026 (expected)
 * **M.Sc** in Embedded Systems Engineering, University of Leeds, UK, 2018-2019
 * **B.Eng.** in New Energy Science & Engineering, Beijing Information Science & Technology University, China, 2014-2018
 
