@@ -30,7 +30,7 @@ Skills - 技能
 
 Publications - 文章发表 
 ======
-Updated on December 8, 2024
+Updated on January 24, 2025
 
 __Journal Papers - 期刊论文__
 1. __Yuxuan Zhang*__, Rhys Pullin, Bengt Oelmann, Sebastian Bader. (2024). "On-Device Real-time Fault Diagnosis for SHM Using Data Augmentation and TinyML: A Case Study on Carbon Fiber Panels." Submitted to _IEEE Transactions on Instrumentation and Measurement_, __(JCR Q1, 中科院2区Top)__
