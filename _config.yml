@@ -26,14 +26,13 @@ author:
   bio              : "Doctoral student in Electronics at Mid Sweden University"
   location         : "Sweden"
   employer         : "Mid Sweden University"
-  uri              : "https://www.miun.se/en/personnel/z/yuxuanzhang/"
   email            : "thyme.zh@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=ySsqbQ0AAAAJ&hl=en"
   orcid            : "http://orcid.org/0000-0002-8617-0435"
   researchgate     : "https://www.researchgate.net/profile/Yuxuan-Zhang-61"
-  WoS              : "https://www.webofscience.com/wos/author/record/KHC-7517-2024"
+  uri              : "https://www.webofscience.com/wos/author/record/KHC-7517-2024"
 
   # Repositories and software development
   github           : "YuxuanZhang-96"
