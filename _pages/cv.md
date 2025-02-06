@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Updated on February 6, 2025
 Education - 教育经历
 ======
 * **Ph.D** in Electronics, Mid Sweden University, Sweden, 2021-2026 (expected)
