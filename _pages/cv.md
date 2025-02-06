@@ -57,7 +57,7 @@ __Licentiate Thesis, Comprehensive Summaries - 副博士学位论文__
 __Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
 1. __Yuxuan Zhang__. (2025). "To be decided." Dr. (Comprehensive summary) Sundsvall : Mid Sweden University, 2025 (Mid Sweden University Doctoral thesis : x)
 
-*Corresponding author-通信作者
+__*Corresponding author-通信作者__
 
 Service and leadership - 学术服务 & 其它
 ======
