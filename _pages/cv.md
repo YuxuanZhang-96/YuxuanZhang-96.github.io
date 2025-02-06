@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Updated on February 6, 2025
+======
 
 Education - 教育经历
 ======
