@@ -60,6 +60,8 @@ __Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
 
 Service and leadership - 学术服务 & 其它
 ======
-* Session chair - 2022 IEEE Sensors Applications Symposium.
-* Student member - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
-* Reviewer - IEEE Sensors Journal, IEEE T-IM, IEEE T-II, Mechanical Systems and Signal Processing, Structural Health Monitoring-An International Journal, Expert Systems with Applications, Measurement, Reliability Engineering & System Safety, Information Sciences and Engineering Applications of Artificial Intelligence.
+* 2024 Outstanding Reviewer - IEEE Transactions on Instrumentation and Measurement.
+* Special Session Organizer - 2025 IEEE Sensors Applications Symposium, special session "Near-sensor and In-sensor Computing".
+* Session Shair             - 2022 IEEE Sensors Applications Symposium, regular seesion "Novel Sensing Technologies".
+* Student Member            - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
+* Reviewer                  - IEEE T-IM, IEEE T-II, IEEE Sensors Journal, Measurement, MSSP, SHM-An International Journal, ESWA, EAAI, IEEE SAS, IEEE I2MTC and others.
