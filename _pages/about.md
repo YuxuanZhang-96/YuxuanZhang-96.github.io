@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student in Electronics at the 
+I am currently a PhD student in Electronics supervised by Assoc. Prof. Sebastian Bader at the 
 [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University](https://www.miun.se/en/) (from 2021).
 
 My research interests include Tiny Machine Learning, i.e., implementing machine learning algorithms on low-power and very resource-constrained devices, and its application in structural health monitoring, inspection, and fault diagnosis (time series signals & visual signals).  I have published papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, MDPI SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
@@ -18,7 +18,7 @@ Currently, I am also a student member of the [IEEE Instrumentation and Measureme
 
 Background
 ======
-I received my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program at the University of Leeds (UK, 2019), and my B.Eng. from the [New Energy Science & Engineering](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc) program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
+I received my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program supervised by Prof. Steven Freear at the University of Leeds (UK, 2019), and my B.Eng. from the [New Energy Science & Engineering](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc) program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
 
 
 关于
