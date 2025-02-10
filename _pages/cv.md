@@ -31,9 +31,9 @@ Skills - 技能
 * Coding: Python, C/C++, MATLAB, Verilog HDL
 * Fields: Structural Health Monitoring, Fault Diagnosis (time series and visiual signal)
 
-Publications - 文章发表              *Corresponding author-通信作者
+Publications - 文章发表              
 ======
-__Journal Papers - 期刊论文__
+__Journal Papers - 期刊论文        --------        *Corresponding author-通信作者__
 1. __Yuxuan Zhang*__, Rhys Pullin, Bengt Oelmann, Sebastian Bader. (2024). "On-Device Real-time Fault Diagnosis for SHM Using Data Augmentation and TinyML: A Case Study on Carbon Fiber Panels." Submitted to _IEEE Transactions on Instrumentation and Measurement_, __(JCR Q1, 中科院2区Top)__
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2024). "[On-device Anomaly Detection in Conveyor Belt Operations](https://arxiv.org/abs/2411.10729)." Submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(JCR Q1, 中科院2区Top)__
 3. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader. (2024). "On-device Autonomous Vision-based Crack Detection using TinyML." Submitted to _IEEE Transactions on Instrumentation and Measurement_, 1-9. __(JCR Q1, 中科院2区Top)__
