@@ -31,7 +31,7 @@ Skills - 技能
 * Coding: Python, C/C++, MATLAB, Verilog HDL
 * Fields: Structural Health Monitoring, Fault Diagnosis (time series and visiual signal)
 
-Publications - 文章发表 
+Publications - 文章发表              *Corresponding author-通信作者
 ======
 __Journal Papers - 期刊论文__
 1. __Yuxuan Zhang*__, Rhys Pullin, Bengt Oelmann, Sebastian Bader. (2024). "On-Device Real-time Fault Diagnosis for SHM Using Data Augmentation and TinyML: A Case Study on Carbon Fiber Panels." Submitted to _IEEE Transactions on Instrumentation and Measurement_, __(JCR Q1, 中科院2区Top)__
@@ -57,7 +57,7 @@ __Licentiate Thesis, Comprehensive Summaries - 副博士学位论文__
 __Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
 1. __Yuxuan Zhang__. (2025). "To be decided." Dr. (Comprehensive summary) Sundsvall : Mid Sweden University, 2025 (Mid Sweden University Doctoral thesis : x)
 
-__*Corresponding author-通信作者__
+
 
 Service and leadership - 学术服务 & 其它
 ======
