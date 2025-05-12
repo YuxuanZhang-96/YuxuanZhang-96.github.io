@@ -9,10 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Or ResearchGate <a href="https://www.researchgate.net/profile/Yuxuan-Zhang-61?ev=hdr_xprf"> ResearchGate </a>
+Or  <a href="https://www.researchgate.net/profile/Yuxuan-Zhang-61?ev=hdr_xprf"> my ResearchGate </a>
 
-Or Web of Science <a href="https://www.webofscience.com/wos/author/record/KHC-7517-2024"> Web of Science </a>
-{% include base_path %}
+
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
