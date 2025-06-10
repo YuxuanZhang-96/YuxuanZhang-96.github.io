@@ -29,7 +29,7 @@ Skills - 技能
 ======
 * ML&DL: TensorFlow, Pytorch, Scikit-learn
 * Coding: Python, C/C++, MATLAB
-* Fields: Structural Health Monitoring, Fault Diagnosis (time series and visiual signal), Smart Agriculture
+* Fields: TinyML, On-device Training, Structural Health Monitoring, Smart Agriculture
 
 Publications - 文章发表              
 ======
