@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD student in Electronics supervised by Assoc. Prof. Sebastian Bader at the 
-[Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University](https://www.miun.se/en/) (from 2021).
+[Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University](https://www.miun.se/en/) (from 2021). After completing my PhD, I will join the College of Intelligent Science and Engineering of Beijing Agricultural University as a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things.
 
-My research interests include Tiny Machine Learning, i.e., implementing machine learning algorithms on low-power and very resource-constrained devices, on-device training and their applications in Structural Health Monitoring and Precision Agriculture.  I have published 10+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
+My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
 I am one of the 2024 IEEE TIM Outstanding Reviewer and also served as a reviewer for journals and conferences:
-IEEE Sensors Journal, IEEE Trans. on Instrumentation and Measurement, IEEE Trans. Industrial Informatic, Mechanical Systems and Signal Processing, Structural Health Monitoring, Expert Systems with Applications, Measurement, Reliability Engineering & System Safety, Information Sciences and Engineering Applications of Artificial Intelligence, Information Processing in Agriculture, Computers and Electronics in Agriculture, Nondestructive Testing and Evaluation,  Sensors and Actuators A: Physical and IEEE Internet of Things Journal.
+IEEE Sensors J, IEEE TIM, IEEE TII, MSSP, SHM, ESWA, Measurement, RESS, Information Sciences,EAAI Information Processing in Agriculture, Computers and Electronics in Agriculture, Nondestructive Testing and Evaluation,  Sensors and Actuators A: Physical and IEEE IoTJ.
 
 Currently, I am also a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/)， IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
 
