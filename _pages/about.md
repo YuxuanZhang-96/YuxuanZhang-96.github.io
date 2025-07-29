@@ -14,7 +14,7 @@ After completing my PhD, I will join the [College of Intelligent Science and Eng
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
 I am one of the 2024 IEEE TIM Outstanding Reviewer and also served as a reviewer for several prestigious journals and conferences:
-IEEE Sensors J, IEEE TIM, IEEE TII, MSSP, SHM, ESWA, Measurement, RESS, Information Sciences,EAAI Information Processing in Agriculture, Computers and Electronics in Agriculture, Nondestructive Testing and Evaluation,  Sensors and Actuators A: Physical and IEEE IoTJ.
+IEEE IoTJ, IEEE Sensors J, IEEE TIM, IEEE TII, MSSP, SHM, ESWA, Measurement, RESS, EAAI, Information Sciences, Information Processing in Agriculture, Computers and Electronics in Agriculture, Nondestructive Testing and Evaluation,  Sensors and Actuators A: Physical.
 
 Currently, I am also a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/)， IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
 
