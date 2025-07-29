@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on June 10, 2025
+Updated on July 29, 2025
 ======
 
 Education - 教育经历
@@ -20,7 +20,7 @@ Education - 教育经历
 
 Work experience - 工作经历
 ======
-* 2021.01-now: Doctoral Student
+* 2021.01-2025.09 (excepted): Doctoral Student
   * Mid Sweden University, Sundsvall, Sweden.     
 * 2020.05-2020.12: Assistant Engineer
   * Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
@@ -45,8 +45,8 @@ __Conference Papers - 会议论文__
 2. Quynh Nguyen Phuong Vu*, Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Duc Nko Tran, Bengt Oelmann, Michele Magno and Sebastian Bader. (2025). "[Efficient Continual Learning in Keyword Spotting using Binary Neural Networks](https://arxiv.org/abs/2505.02469)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
 3. Wei Li, Xiaochun Wu, Xiaoxi Hu, __Yuxuan Zhang__, Sebastian Bader, Yuhan Huang. (2025). "[LD-RPMNet: Near-Sensor Diagnosis for Railway Point Machines](https://www.arxiv.org/abs/2506.06346)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
 4. Xiaoran Wang, Hongyu Li, Zhenghua Liu, Jianing Zhang, __Yuxuan Zhang__, Sebastian Bader. (2025). "Long short-term memory-optimized time difference mapping for enhanced acoustic emission source localization in composite materials." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6. (accepted)
-5. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Quynh Nguyen Phuong Vu, Bengt Oelmann and Sebastian Bader. (2025). "[Survey of Quantization Techniques for On-Device Vision-based Crack Detection](https://arxiv.org/abs/2502.02269)." In _2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6. (accepted)
-6. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Quynh Nguyen Phuong Vu, Bengt Oelmann and Sebastian Bader. (2025). "An On-Device Hybrid Machine Learning Approach for Anomaly Detection in Conveyor Belt Operations." In _2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6. (accepted)
+5. __Yuxuan Zhang*__, Luciano Sebastian Martinez Rau, Quynh Nguyen Phuong Vu, Bengt Oelmann and Sebastian Bader. (2025). "[Survey of Quantization Techniques for On-Device Vision-based Crack Detection](https://ieeexplore.ieee.org/document/11078998)." In _2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
+6. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Quynh Nguyen Phuong Vu, Bengt Oelmann and Sebastian Bader. (2025). "[An On-Device Hybrid Machine Learning Approach for Anomaly Detection in Conveyor Belt Operations](https://ieeexplore.ieee.org/document/11079096/)." In _2025 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
 7. Uditha Muthumala, __Yuxuan Zhang__, Luciano Sebastian Martinez Rau and Sebastian Bader*. (2024). "[Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis.](https://ieeexplore.ieee.org/document/10811219)" In _2024 IEEE 10th World Forum on Internet of Things (WF-IoT)_, pp. 444–449.
 8. __Yuxuan Zhang__, Luciano Sebastian Martinez Rau, Bengt Oelmann, Sebastian Bader*. (2024). "[Enabling Autonomous Structural Inspections with Tiny Machine Learning on UAVs](https://ieeexplore.ieee.org/document/10636583)." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6. 
 9. Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2024). "[TinyML Anomaly Detection for Industrial Machines with Periodic Duty Cycles](https://ieeexplore.ieee.org/document/10636584)." In _2024 IEEE Sensors Applications Symposium (SAS)_, 1-6.
@@ -65,7 +65,8 @@ __Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
 Service and leadership - 学术服务 & 其它
 ======
 * 2024 Outstanding Reviewer - IEEE Transactions on Instrumentation and Measurement.
-* Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
+* Special Session Organizer - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
+            & Session Chair 
 * Session Shair             - 2022 IEEE Sensors Applications Symposium, regular seesion "Novel Sensing Technologies".
 * Student Member            - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
-* Reviewer                  - IEEE T-IM, IEEE T-II, IEEE Internet of Things Journal, IEEE Sensors Journal, Measurement, MSSP, ESWA, EAAI, IEEE SAS, IEEE I2MTC, SHM-An International Journal, Computers and Electronics in Agriculture, Information Procession in Agriculture and others.
+* Reviewer                  - IEEE T-IM, IEEE T-II, IEEE Internet of Things Journal, IEEE Sensors Journal, Measurement, MSSP, ESWA, EAAI, IEEE SAS, IEEE I2MTC, SHM-An International Journal, Computers and Electronics in Agriculture,                                          Information Procession in Agriculture and others.
