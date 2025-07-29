@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student in Electronics supervised by Assoc. Prof. Sebastian Bader at the 
-[Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University](https://www.miun.se/en/) (from 2021). After completing my PhD, I will join the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) as a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things.
+I am currently a last PhD candidate in Electronics supervised by Assoc. Prof. Sebastian Bader at the 
+[Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University](https://www.miun.se/en/) (2021.01-2025.09). 
+
+After completing my PhD, I will join the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) as a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things.
 
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
