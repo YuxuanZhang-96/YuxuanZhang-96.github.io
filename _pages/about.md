@@ -17,27 +17,28 @@ I am one of the 2024 IEEE TIM Outstanding Reviewer and also served as a reviewer
 
 ACM Computing Survey, <br>
 IEEE Internet of Things Journal,  <br>
-IEEE Sensors Journal,  <br>
-IEEE Trans. on Instrumentation and Measurement,  <br>
 IEEE Trans. on Industrial Informatic,  <br>
+IEEE Trans. on Instrumentation and Measurement,  <br>
+IEEE Sensors Journal,  <br>
 Mechanical Systems and Signal Processing,  <br>
-Structural Health Monitoring,  <br>
-Expert Systems with Applications,  <br>
-Measurement,  <br>
 Reliability Engineering & System Safety,  <br>
+Structural Health Monitoring,  <br>
+Measurement,  <br>
+Ultrasonics, <br>
+Nondestructive Testing and Evaluation,   <br>
+Expert Systems with Applications,  <br>
 Engineering Applications of Artificial Intelligence,  <br>
 Information Sciences,  <br>
 Information Processing in Agriculture,  <br>
 Computers and Electronics in Agriculture,  <br>
-Nondestructive Testing and Evaluation,   <br>
 Sensors and Actuators A: Physical, <br>
 Scientific Reports, <br>
 IEEE Sensors Applications Symposium (SAS), <br>
 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), <br>
 ACM Conference on Embedded Networked Sensor Systems, <br>
 Memetic Computing, <br>
-Signal, Image and Video Processing, <br>
-Ultrasonics.
+Signal, Image and Video Processing
+.
 
 Currently, I am also a student member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/)， IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
 
