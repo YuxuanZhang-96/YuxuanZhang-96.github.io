@@ -16,7 +16,9 @@ After completing my PhD, I will join the [College of Intelligent Science and Eng
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
 I am one of the 2024 IEEE TIM Outstanding Reviewer and also served as a reviewer for several prestigious journals and conferences:
+
 //[Review Records](https://www.webofscience.com/wos/author/record/KHC-7517-2024)//
+
 ACM Computing Survey, <br>
 IEEE Internet of Things Journal,  <br>
 IEEE Trans. on Industrial Informatic,  <br>
