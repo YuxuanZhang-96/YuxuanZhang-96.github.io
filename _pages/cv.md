@@ -68,4 +68,4 @@ Service and leadership - 学术服务 & 其它
 * Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
 * Session Shair                             - 2022 IEEE Sensors Applications Symposium, regular seesion "Novel Sensing Technologies".
 * Student Member                            - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
-* Reviewer                                  - IEEE T-IM, IEEE T-II, IEEE Internet of Things Journal, IEEE Sensors Journal, Measurement, MSSP, ESWA, EAAI, IEEE SAS, IEEE I2MTC, SHM-An International Journal, Computers and Electronics in Agriculture, Information Procession in Agriculture and others.
+* Reviewer                                  - ACM Computing Survey, IEEE T-IM, IEEE T-II, IEEE Internet of Things Journal, IEEE Sensors Journal, Measurement, MSSP, ESWA, EAAI, RESS, IEEE SAS, IEEE I2MTC, SHM-An International Journal, Computers and Electronics in Agriculture, Information Procession in Agriculture and others.
