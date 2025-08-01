@@ -58,7 +58,7 @@ __Licentiate Thesis, Comprehensive Summaries - 副博士学位论文__
 1. __Yuxuan Zhang__. (2024). "[Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1857441&dswid=-6455)." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204)
 
 __Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
-1. __Yuxuan Zhang__. (2025). "To be decided." Dr. (Comprehensive summary) Sundsvall : Mid Sweden University, 2025 (Mid Sweden University Doctoral thesis : x)
+1. __Yuxuan Zhang__. (2025). "Efficient On-Device Intelligence for Structural Health Monitoring: A TinyML Perspective." Dr. (Comprehensive summary) Sundsvall : Mid Sweden University, 2025 (Mid Sweden University Doctoral thesis : 434) (To be Uploaded)
 
 
 
