@@ -23,10 +23,8 @@ Education - 教育经历
 
 Work Experience - 工作经历
 ======
-* 2021.01-2025.09: Doctoral Student
-  * Mid Sweden University, Sundsvall, Sweden.     
-* 2020.05-2020.12: Assistant Engineer
-  * Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
+* 2021.01-2025.09: Doctoral Researcher - Mid Sweden University, Sundsvall, Sweden.     
+* 2020.05-2020.12: Assistant Engineer  - Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
 
 Skills - 技能
 ======
