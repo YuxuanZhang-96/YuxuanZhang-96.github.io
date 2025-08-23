@@ -33,7 +33,7 @@ Skills - 技能
 
 Publications - 文章发表              
 ======
-__Journal Papers - 期刊论文        --------        *Corresponding Author-通信作者__
+__Journal Papers - 期刊论文        --------        *Corresponding Author - 通信作者__
 1. __Yuxuan Zhang__, Rhys Pullin, Bengt Oelmann, Sebastian Bader*. (2025). "[On-Device Fault Diagnosis with Augmented Acoustic Emission Data: A Case Study on Carbon Fiber Panels](https://ieeexplore.ieee.org/document/11029626)." _IEEE Transactions on Instrumentation and Measurement_, 1-12 __(JCR Q1, 中科院2区)__ 
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations](https://arxiv.org/abs/2411.10729)." Submitted to _IEEE Open Journal of Instrumentation and Measurement_.
 3. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "[Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring](https://www.mdpi.com/1424-8220/24/13/4124)." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
