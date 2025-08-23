@@ -14,9 +14,12 @@ Updated on July 30, 2025
 
 Education - 教育经历
 ======
-* **Ph.D (2021.01-2025.09 )** in Electronics, Mid Sweden University, Sweden
-* **M.Sc (2018.09-2019.11)** in Embedded Systems Engineering, University of Leeds, UK
-* **B.Eng (2014.09-2018.07)** in New Energy Science & Engineering, Beijing Information Science & Technology University, China
+* 2021.01-2025.09
+  **Ph.D** in Electronics, Mid Sweden University, Sweden 
+* 2018.09-2019.11
+  **M.Sc** in Embedded Systems Engineering, University of Leeds, UK 
+* 2014.09-2018.07
+  **B.Eng** in New Energy Science & Engineering, Beijing Information Science & Technology University, China 
 
 Work Experience - 工作经历
 ======
