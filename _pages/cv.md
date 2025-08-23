@@ -18,7 +18,7 @@ Education - 教育经历
 * **M.Sc (2018.09-2019.11)** in Embedded Systems Engineering, University of Leeds, UK
 * **B.Eng (2014.09-2018.07)** in New Energy Science & Engineering, Beijing Information Science & Technology University, China
 
-Work experience - 工作经历
+Work Experience - 工作经历
 ======
 * 2021.01-2025.09: Doctoral Student
   * Mid Sweden University, Sundsvall, Sweden.     
@@ -33,7 +33,7 @@ Skills - 技能
 
 Publications - 文章发表              
 ======
-__Journal Papers - 期刊论文        --------        *Corresponding author-通信作者__
+__Journal Papers - 期刊论文        --------        *Corresponding Author-通信作者__
 1. __Yuxuan Zhang__, Rhys Pullin, Bengt Oelmann, Sebastian Bader*. (2025). "[On-Device Fault Diagnosis with Augmented Acoustic Emission Data: A Case Study on Carbon Fiber Panels](https://ieeexplore.ieee.org/document/11029626)." _IEEE Transactions on Instrumentation and Measurement_, 1-12 __(JCR Q1, 中科院2区)__ 
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations](https://arxiv.org/abs/2411.10729)." Submitted to _IEEE Open Journal of Instrumentation and Measurement_.
 3. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "[Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring](https://www.mdpi.com/1424-8220/24/13/4124)." _Sensors_, 24(13), 4124. __(JCR Q2, 中科院3区)__
@@ -62,7 +62,7 @@ __Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
 
 
 
-Service and leadership - 学术服务 & 其它
+Service and Leadership - 学术服务 & 其它
 ======
 * 2024 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
 * Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
