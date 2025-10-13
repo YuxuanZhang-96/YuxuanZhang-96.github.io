@@ -27,11 +27,9 @@ Education
 * 2014.09-2018.07
   **B.Eng** in New Energy Science & Engineering, Beijing Information Science & Technology University, China 
 
-Skills
+Research Interests
 ======
-* ML&DL: TensorFlow, Pytorch, Scikit-learn
-* Coding: Python, C/C++, MATLAB
-* Fields: TinyML, On-device Training, Structural Health Monitoring, Smart Agriculture
+TinyML, On-device Training, Nondestructive Testing, Smart Sensing and Measurement Systems in Structural Health Monitoring, Smart Agriculture and Industrial Maintenance.
 
 Publications             
 ======
