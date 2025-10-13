@@ -12,6 +12,12 @@ redirect_from:
 Updated on October 13, 2025
 ======
 
+Work Experience
+======
+* 2025.10-present: Assistan Professor  - Beijing University of Agriculture, Beijing, China.
+* 2021.01-2025.09: Doctoral Researcher - Mid Sweden University, Sundsvall, Sweden.     
+* 2020.05-2020.12: Assistant Engineer  - Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
+  
 Education
 ======
 * 2021.01-2025.09
@@ -20,12 +26,6 @@ Education
   **M.Sc** in Embedded Systems Engineering, University of Leeds, UK 
 * 2014.09-2018.07
   **B.Eng** in New Energy Science & Engineering, Beijing Information Science & Technology University, China 
-
-Work Experience
-======
-* 2025.10-present: Assistan Professor  - Beijing University of Agriculture, Beijing, China.
-* 2021.01-2025.09: Doctoral Researcher - Mid Sweden University, Sundsvall, Sweden.     
-* 2020.05-2020.12: Assistant Engineer  - Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
 
 Skills
 ======
