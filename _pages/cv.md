@@ -36,6 +36,7 @@ Skills
 Publications - *Corresponding Author  #Co-First Author              
 ======
 __First Author/Co-First Author/Corresponding Author__
+
 __Journal Papers__
 1. __Yuxuan Zhang__, Veysi Adin, Sebastian Bader*, Bengt Oelmann. (2023). "[Leveraging acoustic emission and machine learning for concrete materials damage classification on embedded devices](https://ieeexplore.ieee.org/document/10227301)." _IEEE Transactions on Instrumentation and Measurement_, 1-8. __(IF 5.9, JCR Q1, 中科院2区)__
 2. Chengjie Huang, Xinjuan Sun, __Yuxuan Zhang*__. (2024). "[Tiny-Machine-Learning-Based Supply Canal Surface Condition Monitoring](https://www.mdpi.com/1424-8220/24/13/4124)." _Sensors_, 24(13), 4124. __(IF 3.5, JCR Q2, 中科院3区)__
