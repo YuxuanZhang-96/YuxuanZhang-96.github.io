@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuxuan Zhang"
-  bio              : "Doctoral student in Electronics at Mid Sweden University"
-  location         : "Sweden"
-  employer         : "Mid Sweden University"
+  name             : "Dr. Yuxuan Zhang"
+  bio              : "Assistant Professor in Embedded Systems and IoT at Beijing University of Agriculture"
+  location         : "Beijing | Sweden"
+  employer         : "Beijing University of Agriculture"
   email            : "thyme.zh@gmail.com" 
 
   # Academic websites
