@@ -48,7 +48,7 @@ Currently, I am also a member of the [IEEE Instrumentation and Measurement Socie
 
 Background
 ======
-I received my PhD in Electronics supervised by Assoc. Prof. Sebastian Bader at the 
+I received my Ph.D in Electronics supervised by Assoc. Prof. Sebastian Bader at the 
 [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/) and [Sensible Things that Communicate (STC) Research Centre](https://www.miun.se/en/Research/research-centers/stc/) at [Mid Sweden University](https://www.miun.se/en/) (2021.01-2025.09), my M.Sc from the [Embedded Systems Engineering](https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-) program supervised by Prof. Steven Freear at the University of Leeds (UK, 2019), and my B.Eng. from the [New Energy Science & Engineering](https://www.bistu.edu.cn/jyjx/bks/bkzy/202309/W020230920631589846740.doc) program at Beijing Information Science & Technology University (China, 2018). After receiving my M.Sc, I was at the [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.cas.cn/) as an assistant engineer for 7 months.
 
 More information can be found in CV section.
