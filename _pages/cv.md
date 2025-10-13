@@ -55,6 +55,7 @@ __Conference Papers__
 4. __Yuxuan Zhang*__, Ye Xu, Luciano Sebastian Martinez Rau, Quynh Nguyen Phuong Vu, Bengt Oelmann and Sebastian Bader. (2025). "[On-Device Crack Segmentation for Edge Structural Health Monitoring](https://ieeexplore.ieee.org/document/11105204)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6.
 
 __Other Co-Authors__
+
 __Journals__
 1. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "[Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images](https://www.mdpi.com/1424-8220/24/11/3428)." _Sensors_, 24(11), 3428. __(IF 3.5, JCR Q2, 中科院3区)__
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations]([https://arxiv.org/abs/2411.10729](https://ieeexplore.ieee.org/abstract/document/11175363/))." _IEEE Open Journal of Instrumentation and Measurement_. 1-9.__(IF 1.5)__
