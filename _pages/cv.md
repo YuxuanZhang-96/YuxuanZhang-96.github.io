@@ -69,10 +69,10 @@ __Conference Papers__
 7. Wei Li, Xiaochun Wu, Xiaoxi Hu, __Yuxuan Zhang__, Sebastian Bader, Yuhan Huang. (2025). "[LD-RPMNet: Near-Sensor Diagnosis for Railway Point Machines](https://ieeexplore.ieee.org/document/11105111)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6.
 8. Quynh Nguyen Phuong Vu*, Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Duc Nko Tran, Bengt Oelmann, Michele Magno and Sebastian Bader. (2025). "[Efficient Continual Learning in Keyword Spotting using Binary Neural Networks](https://ieeexplore.ieee.org/document/11105106)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6. 
 
-__Licentiate Thesis, Comprehensive Summaries - 副博士学位论文__
+__Licentiate Thesis, Comprehensive Summaries__
 1. __Yuxuan Zhang__. (2024). "[Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1857441&dswid=-6455)." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204)
 
-__Doctoral Thesis, Comprehensive Summaries - 博士学位论文__
+__Doctoral Thesis, Comprehensive Summaries__
 1. __Yuxuan Zhang__. (2025). "[Efficient On-Device Intelligence for Structural Health Monitoring: A TinyML Perspective](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1990416&dswid=-6816)." Dr. (Comprehensive summary) Sundsvall : Mid Sweden University, 2025 (Mid Sweden University Doctoral thesis : 434)
 
 
