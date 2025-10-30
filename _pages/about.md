@@ -8,7 +8,7 @@ redirect_from:
 ---
 (2025.10.30 Updated)
 
-I am a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/).
+I am currently a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
