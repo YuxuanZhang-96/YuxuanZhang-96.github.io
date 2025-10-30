@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(2025.10.13 Updated)
+(2025.10.30 Updated)
 
-I will join the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) as a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things at the end of October, 2025.
+I am a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/).
 
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in journals and conferences such as IEEE Transactions on Instrumentation and Measurement, SENSORS, IEEE Sensors Applications Symposium (SAS), IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE World Forum on Internet of Things (WF-IoT). 
 
