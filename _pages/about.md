@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(2025.10.30 Updated)
+(2025.11.01 Updated)
 
 I am currently a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
