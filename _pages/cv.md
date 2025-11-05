@@ -58,7 +58,7 @@ __Co-Author__
 
 __Journals__
 1. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "[Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images](https://www.mdpi.com/1424-8220/24/11/3428)." _Sensors_, 24(11), 3428. __(IF 3.5, JCR Q2, 中科院3区)__
-2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations]([https://arxiv.org/abs/2411.10729](https://ieeexplore.ieee.org/abstract/document/11175363/))." _IEEE Open Journal of Instrumentation and Measurement_. 1-9.__(IF 1.5)__
+2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations](https://ieeexplore.ieee.org/abstract/document/11175363/)." _IEEE Open Journal of Instrumentation and Measurement_. 1-9.__(IF 1.5)__
 3. Yuchen Lu, Yifei Li, __Yuxuan Zhang__, Xin Wang, Menghan Chen, Chuanyang Zhao, M. Abdel Wahab, Hongbing Liu*. (2025). "." _Engineering Structures_ (under review). __(IF 6.4, JCR Q1, 中科院1区Top)__
 4. Renjie He, Qinxu Zhang, Chunlu Wang, Zhiwen Li, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "Robust Microseismic Denoising via Multivariate Singular Spectrum Analysis Coupled with Frequency-Domain-Aware U-Net". _IEEE TRANSACTIONS on GEOSCIENCE and REMOTE SENSING_ (under review). __(IF 8.6, JCR Q1, 中科院1区)__
 5. Renjie He, Qinxu Zhang, Chunlu Wang, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "Low-SNR Microseismic Source Localization via Multi-Scale Convolutional Network with Coordinate Attention". _IEEE TRANSACTIONS on Instrumentation and Measurement_ (under review). __(IF 5.9, JCR Q1, 中科院1区)__
