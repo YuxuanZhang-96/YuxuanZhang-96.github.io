@@ -46,7 +46,6 @@ __Journal Papers__
 8. __Yuxuan Zhang*__, Yuchen Lu, Luciano Sebastian Martinez-Rau, Quan Qiu*, Sebastian Bader. (2025). "Energy-Efficient Real-Time Weed Classification on MCUs using a Channel Attention CNN for Precision Agriculture".  _Measurement_ (under review). __(IF 5.6, JCR Q1, 中科院2区)__
 9. __Yuxuan Zhang__, Yuchen Lu*, Luciano Sebastian Martinez-Rau, Fanzheng Qiang, Quan Qiu*, Brendan O'Flynn, Sebastian Bader. (2025). "TinyML-Enabled IoT Edge Framework with Knowledge Distillation for Weed Classification".  _IEEE Internet of Things Journal_ (under review). __(IF 8.9, JCR Q1, 中科院2区Top)__
 10. Yuchen Lu, __Yuxuan Zhang*__, Sebastian Bader, Dun li, Yanfu Li. (2025). "Pipeline Posterior Scoring Module for Out-of-Distribution Detection via Attachable Uncertainty Quantification". _Reliability Engineering & System Safety_ (under review). __(IF 11.0, JCR Q1, 中科院1区Top)__
-11. Yuchen Lu, __Yuxuan Zhang__, Zhimeng Huang, Qingyang Wei, Liangliang Cheng, Yifei Li*, Maosen Cao. (2025). "Task-Guided and Region-Focused Knowledge Distillation for Pipeline Leak Detection in Edge Computing". _Mechanical Systems and Signal Processing_ (under review). __(IF 8.9, JCR Q1, 中科院1区Top)__
 
 
 __Conference Papers__
