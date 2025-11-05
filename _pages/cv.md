@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on November 1st, 2025
+Updated on November 5th, 2025
 ======
 
 Work Experience
@@ -46,6 +46,7 @@ __Journal Papers__
 8. __Yuxuan Zhang*__, Yuchen Lu, Luciano Sebastian Martinez-Rau, Quan Qiu*, Sebastian Bader. (2025). "Energy-Efficient Real-Time Weed Classification on MCUs using a Channel Attention CNN for Precision Agriculture".  _Measurement_ (under review). __(IF 5.6, JCR Q1, 中科院2区)__
 9. __Yuxuan Zhang__, Yuchen Lu*, Luciano Sebastian Martinez-Rau, Fanzheng Qiang, Quan Qiu*, Brendan O'Flynn, Sebastian Bader. (2025). "TinyML-Enabled IoT Edge Framework with Knowledge Distillation for Weed Classification".  _IEEE Internet of Things Journal_ (under review). __(IF 8.9, JCR Q1, 中科院2区Top)__
 10. Yuchen Lu, __Yuxuan Zhang*__, Sebastian Bader, Dun li, Yanfu Li. (2025). "Pipeline Posterior Scoring Module for Out-of-Distribution Detection via Attachable Uncertainty Quantification". _Reliability Engineering & System Safety_ (under review). __(IF 11.0, JCR Q1, 中科院1区Top)__
+11. Chaoyue Han, Shuo Kang, Lipengchegn Wan, Dongdong Du*, __Yuxuan Zhang*__, Yuchen Lu, Jun Wang. (2025). "actile Sensing-Based Measurement and Correlation Analysis for Peach Ripeness Assessment"_IEEE Transactions on Instrumentation and Measurement_ (under review). __(IF 5.9, JCR Q1, 中科院2区)__
 
 
 __Conference Papers__
@@ -60,9 +61,10 @@ __Journals__
 1. Yang Xie, Yali Nie, Jan Lundgren, Mingliang Yang, __Yuxuan Zhang__, Zhenbo Chen*. (2024). "[Cervical Spondylosis Diagnosis Based on Convolutional Neural Network with X-ray Images](https://www.mdpi.com/1424-8220/24/11/3428)." _Sensors_, 24(11), 3428. __(IF 3.5, JCR Q2, 中科院3区)__
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations](https://ieeexplore.ieee.org/abstract/document/11175363/)." _IEEE Open Journal of Instrumentation and Measurement_. 1-9.__(IF 1.5)__
 3. Yuchen Lu, Yifei Li, __Yuxuan Zhang__, Xin Wang, Menghan Chen, Chuanyang Zhao, M. Abdel Wahab, Hongbing Liu*. (2025). "." _Engineering Structures_ (under review). __(IF 6.4, JCR Q1, 中科院1区Top)__
-4. Renjie He, Qinxu Zhang, Chunlu Wang, Zhiwen Li, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "Robust Microseismic Denoising via Multivariate Singular Spectrum Analysis Coupled with Frequency-Domain-Aware U-Net". _IEEE TRANSACTIONS on GEOSCIENCE and REMOTE SENSING_ (under review). __(IF 8.6, JCR Q1, 中科院1区)__
-5. Renjie He, Qinxu Zhang, Chunlu Wang, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "Low-SNR Microseismic Source Localization via Multi-Scale Convolutional Network with Coordinate Attention". _IEEE TRANSACTIONS on Instrumentation and Measurement_ (under review). __(IF 5.9, JCR Q1, 中科院1区)__
+4. Renjie He, Qinxu Zhang, Chunlu Wang, Zhiwen Li, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "Robust Microseismic Denoising via Multivariate Singular Spectrum Analysis Coupled with Frequency-Domain-Aware U-Net". _IEEE Transactions on Geoscience and Remote Sensing_ (under review). __(IF 8.6, JCR Q1, 中科院1区Top)__
+5. Renjie He, Qinxu Zhang, Chunlu Wang, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "Low-SNR Microseismic Source Localization via Multi-Scale Convolutional Network with Coordinate Attention". _IEEE Transactions on Instrumentation and Measurement_ (under review). __(IF 5.9, JCR Q1, 中科院2区)__
 6. Wenyan Sun, Feifei Xie*, __Yuxuan Zhang__, Liangrui Wei, Fuzheng Chu, Xiaoyu Tang. (2025). "FDE: A Frequency-Domain Enhancement Method for Object Detection in Complex Traffic Scenes". _Computer Vision and Image Understanding_ (under review). __(IF 3.5, JCR Q2, 中科院3区, CCF-B)__
+7. Changchun He, Xin Huo*, __Yuxuan Zhang__, Sebastian Bader. (2025). "Multiview Interval Hypergraph Learning for Time Series Classification and Its Application to Turntable Fault Diagnosis". _IEEE Transactions on Industrial Electronics_ (under review). __(IF 7.2, JCR Q1, 中科院1区Top)__
   
 __Conference Papers__
 1. Veysi Adin, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader*. (2023). "[Tiny Machine Learning for Damage Classification in Concrete using Acoustic Emission Signals](https://ieeexplore.ieee.org/document/10175972)." In _2023 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)_, 1-6.
