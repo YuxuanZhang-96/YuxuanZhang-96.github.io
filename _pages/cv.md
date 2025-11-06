@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on November 5th, 2025
+Updated on November 6, 2025
 ======
 
 Work Experience
 ======
-* 2025.10-present: Assistan Professor  - Beijing University of Agriculture, Beijing, China.
-* 2021.01-2025.09: Doctoral Researcher - Mid Sweden University, Sundsvall, Sweden.     
-* 2020.05-2020.12: Assistant Engineer  - Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
+* 2025.10-present: Assistan Professor   - Beijing University of Agriculture, Beijing, China.
+* 2025.10-present: Affliated Researcher - Mid Sweden University, Sundsvall, Sweden.
+* 2021.01-2025.09: Doctoral Researcher  - Mid Sweden University, Sundsvall, Sweden.     
+* 2020.05-2020.12: Assistant Engineer   - Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, China.
   
 Education
 ======
