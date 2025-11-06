@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(2025.11.01 Updated)
+(2025.11.06 Updated)
 
-I am currently a Lecturer (Assistant Professor) in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
+I am currently an Assistant Professor in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in peer-reviewed journals and conferences such as IEEE Transactions on Instrumentation and Measurement, Nondestructive Testing and Evaluation, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE Sensors Applications Symposium (SAS), IEEE World Forum on Internet of Things (WF-IoT). 
 
@@ -41,8 +41,7 @@ Computers and Electronics in Agriculture,  <br>
 Sensors and Actuators A: Physical, <br>
 Scientific Reports, <br>
 Memetic Computing, <br>
-Signal, Image and Video Processing
-.
+Signal, Image and Video Processing.
 
 Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/)，IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
 
