@@ -12,7 +12,7 @@ I am currently an Assistant Professor in Embedded Systems and Internet of Things
 
 My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in peer-reviewed journals and conferences such as IEEE Transactions on Instrumentation and Measurement, Nondestructive Testing and Evaluation, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE Sensors Applications Symposium (SAS), IEEE World Forum on Internet of Things (WF-IoT). 
 
-I am one of the 2024 IEEE TIM Outstanding Reviewer and also served as a reviewer for several prestigious journals and conferences:
+I am one of the 2024 IEEE TIM Outstanding Reviewer, one of the ten 2025 Information Processing in Agriculture Outstanding Reviewer, and also served as a reviewer for several prestigious journals and conferences:
 
 //[Review Records](https://www.webofscience.com/wos/author/record/KHC-7517-2024)//
 
