@@ -88,8 +88,10 @@ __Doctoral Thesis, Comprehensive Summaries__
 Service and Leadership
 ======
 * 2024 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
+* 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
 * Special Session Organizer                 - 2026 IEEE International Instrumentation and Measurement Technology Conference, special session "AI-Enhanced Measurement and Instrumentation Systems for Smart Agriculture".
 * Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
 * Session Shair                             - 2022 IEEE Sensors Applications Symposium, regular seesion "Novel Sensing Technologies".
-* Student Member                            - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council & Chinese Mechanical Engineering Society.
+* Member                                    - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council.
+* Senior Member                             - Chinese Mechanical Engineering Society.
 * Reviewer                                  - ACM Computing Survey, IEEE T-IM, IEEE T-II, IEEE Internet of Things Journal, IEEE Sensors Journal, Measurement, MSSP, ESWA, EAAI, RESS, IEEE SAS, IEEE I2MTC, SHM-An International Journal, Computers and Electronics in Agriculture, Information Processing in Agriculture and others.
