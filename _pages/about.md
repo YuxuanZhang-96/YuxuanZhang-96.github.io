@@ -43,7 +43,7 @@ Scientific Reports, <br>
 Memetic Computing, <br>
 Signal, Image and Video Processing.
 
-Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/)，IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
+Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/), IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
 
 Background
 ======
