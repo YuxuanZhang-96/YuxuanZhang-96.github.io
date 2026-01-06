@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(2025.12.25 Updated)
+(2026.01.06 Updated)
 
-I am currently an Assistant Professor in Embedded Systems and Internet of Things at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
+I am currently an Assistant Professor at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
-My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Precision Agriculture and Industrial Maintenance.  I have published 20+ papers in peer-reviewed journals and conferences such as IEEE Transactions on Instrumentation and Measurement, Nondestructive Testing and Evaluation, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE Sensors Applications Symposium (SAS), IEEE World Forum on Internet of Things (WF-IoT). 
+My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Smart Agriculture and Industrial Maintenance.  I have published 20+ papers in peer-reviewed journals and conferences such as IEEE Transactions on Instrumentation and Measurement, Nondestructive Testing and Evaluation, Engineering Structures, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE Sensors Applications Symposium (SAS), IEEE World Forum on Internet of Things (WF-IoT). 
 
-I am one of the 2024 IEEE TIM Outstanding Reviewer, one of the ten 2025 Information Processing in Agriculture Outstanding Reviewer, and also served as a reviewer for several prestigious journals and conferences:
+I am one of the 2024 IEEE TIM Outstanding Reviewer, one of the ten 2025 Information Processing in Agriculture Outstanding Reviewer, and also served as a reviewer for several prestigious journals and conferences, such as:
 
 //[Review Records](https://www.webofscience.com/wos/author/record/KHC-7517-2024)//
 
@@ -38,10 +38,7 @@ Rock Mechanics and Rock Engineering,  <br>
 Information Sciences,  <br>
 Information Processing in Agriculture,  <br>
 Computers and Electronics in Agriculture,  <br>
-Sensors and Actuators A: Physical, <br>
-Scientific Reports, <br>
-Memetic Computing, <br>
-Signal, Image and Video Processing.
+Sensors and Actuators A: Physical.
 
 Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/), IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
 
