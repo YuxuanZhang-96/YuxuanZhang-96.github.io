@@ -56,6 +56,7 @@ __Journals__
 2. Luciano Sebastian Martinez Rau*, __Yuxuan Zhang__, Bengt Oelmann, Sebastian Bader. (2025). "[On-device Anomaly Detection in Conveyor Belt Operations](https://ieeexplore.ieee.org/abstract/document/11175363/)." _IEEE Open Journal of Instrumentation and Measurement_. 1-9.__(IF 1.5)__
 3. Yuchen Lu, Yifei Li, __Yuxuan Zhang__, Xin Wang, Menghan Chen, Chuanyang Zhao, M. Abdel Wahab, Hongbing Liu*. (2025). "[Learning Multi-dimensional Sensor Relationships for Robust Marine Pipeline Leakage Detection via Adaptive Graph Networks](https://www.sciencedirect.com/science/article/pii/S0141029625023740)." _Engineering Structures_. __(IF 6.4, JCR Q1, 中科院1区Top)__
 4. Renjie He, Qinxu Zhang, Chunlu Wang, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "[Low-SNR Microseismic Source Localization via Multi-Scale Convolutional Network with Coordinate Attention](https://ieeexplore.ieee.org/document/11303912)". _IEEE Transactions on Instrumentation and Measurement_. __(IF 5.9, JCR Q1, 中科院2区)__
+5. Yuchen Lu, __Yuxuan Zhang__, Xiaolong Qiu, Weizhe Ren, Chuanyang Zhao, Menghan Chen, Yifei Li, Sebastian Bader, Hongbing Liu*, "[Structural Health Monitoring of Offshore Pipelines via A Novel Spatial-Topological Adaptive Graph Neural Network](https://journals.sagepub.com/doi/10.1177/14759217261418056?utm_source=researchgate.net&utm_medium=article)." _Structural Health Monitoring_. __(IF 5.7, JCR Q1, 中科院2区)__
 
   
 __Conference Papers__
@@ -79,7 +80,7 @@ __Doctoral Thesis, Comprehensive Summaries__
 
 Service and Leadership
 ======
-* 2024 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
+* 2024, 2025 Outstanding Reviewer           - IEEE Transactions on Instrumentation and Measurement.
 * 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
 * Special Session Organizer                 - 2026 IEEE International Instrumentation and Measurement Technology Conference, special session "AI-Enhanced Measurement and Instrumentation Systems for Smart Agriculture".
 * Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
