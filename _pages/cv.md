@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on December 25, 2025
+Updated on Feb. 06, 2026
 ======
 
 Work Experience
