@@ -42,6 +42,7 @@ __Journal Papers__
 3. __Yuxuan Zhang__, Rhys Pullin, Bengt Oelmann, Sebastian Bader*. (2025). "[On-Device Fault Diagnosis with Augmented Acoustic Emission Data: A Case Study on Carbon Fiber Panels](https://ieeexplore.ieee.org/document/11029626)." _IEEE Transactions on Instrumentation and Measurement_, 1-12 __(IF 5.9, JCR Q1, 中科院2区)__
 4. Guanhua Li, Menghan Chen, __Yuxuan Zhang*__. (2025). "[Rolling bearing fault diagnosis in noisy environments using Channel-Time parallel attention networks](https://www.nature.com/articles/s41598-025-22683-y)." _Scientific Reports_, 15, 35034. __(IF 3.9, JCR Q1, 中科院3区)__
 5. Yuchen Lu#, __Yuxuan Zhang#__, Menghan Chen, Qiangqiang Liu, Xiaoran Wang, Zenghua Liu, Hongbing Liu*. (2025). "[Acoustic emission-based graph learning for internal valve leakage localisation in offshore pipelines](https://www.tandfonline.com/doi/full/10.1080/10589759.2025.2572393)." _Nondestructive Testing and Evaluation_, 1-29. __(IF 4.2, JCR Q1, 中科院2区)__
+6. __Yuxuan Zhang*__, Yuchen Lu, Luciano Sebastian Martinez-Rau, Quan Qiu*, Sebastian Bader. (2026). "[Real-Time On-Device Weed Identification Using a Hardware-Efficient Lightweight CNN](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1747863/abstract)." _Frontiers in Plant Science_. __(IF 4.8, JCR Q1, 中科院2区)__
 
 __Conference Papers__
 1. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "[A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions](https://ieeexplore.ieee.org/document/9881386)." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6.
@@ -57,6 +58,7 @@ __Journals__
 3. Yuchen Lu, Yifei Li, __Yuxuan Zhang__, Xin Wang, Menghan Chen, Chuanyang Zhao, M. Abdel Wahab, Hongbing Liu*. (2025). "[Learning Multi-dimensional Sensor Relationships for Robust Marine Pipeline Leakage Detection via Adaptive Graph Networks](https://www.sciencedirect.com/science/article/pii/S0141029625023740)." _Engineering Structures_. __(IF 6.4, JCR Q1, 中科院1区Top)__
 4. Renjie He, Qinxu Zhang, Chunlu Wang, Zubin Chen*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "[Low-SNR Microseismic Source Localization via Multi-Scale Convolutional Network with Coordinate Attention](https://ieeexplore.ieee.org/document/11303912)". _IEEE Transactions on Instrumentation and Measurement_. __(IF 5.9, JCR Q1, 中科院2区)__
 5. Yuchen Lu, __Yuxuan Zhang__, Xiaolong Qiu, Weizhe Ren, Chuanyang Zhao, Menghan Chen, Yifei Li, Sebastian Bader, Hongbing Liu*, "[Structural Health Monitoring of Offshore Pipelines via A Novel Spatial-Topological Adaptive Graph Neural Network](https://journals.sagepub.com/doi/10.1177/14759217261418056?utm_source=researchgate.net&utm_medium=article)." _Structural Health Monitoring_. __(IF 5.7, JCR Q1, 中科院2区)__
+6. Wenyan Sun, Feifei Xie*, __Yuxuan Zhang__, Liangrui Wei, Fuzheng Chu, Xiaoyu Tang. (2026). "[FDE: A Frequency-Domain Enhancement method for object detection in complex traffic scenes](https://www.sciencedirect.com/science/article/pii/S1077314226000445)." _Computer Vision and Image Understanding_. __(IF 3.5, JCR Q2, 中科院3区, CCF B)__
 
   
 __Conference Papers__
