@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on Feb. 06, 2026
+Updated on Feb. 17, 2026
 ======
 
 Work Experience
@@ -43,7 +43,7 @@ __Journal Papers__
 4. Guanhua Li, Menghan Chen, __Yuxuan Zhang*__. (2025). "[Rolling bearing fault diagnosis in noisy environments using Channel-Time parallel attention networks](https://www.nature.com/articles/s41598-025-22683-y)." _Scientific Reports_, 15, 35034. __(IF 3.9, JCR Q1, 中科院3区)__
 5. Yuchen Lu#, __Yuxuan Zhang#__, Menghan Chen, Qiangqiang Liu, Xiaoran Wang, Zenghua Liu, Hongbing Liu*. (2025). "[Acoustic emission-based graph learning for internal valve leakage localisation in offshore pipelines](https://www.tandfonline.com/doi/full/10.1080/10589759.2025.2572393)." _Nondestructive Testing and Evaluation_, 1-29. __(IF 4.2, JCR Q1, 中科院2区)__
 6. __Yuxuan Zhang*__, Yuchen Lu, Luciano Sebastian Martinez-Rau, Quan Qiu, Sebastian Bader. (2026). "[Real-Time On-Device Weed Identification Using a Hardware-Efficient Lightweight CNN](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1747863/abstract)." _Frontiers in Plant Science_. __(IF 4.8, JCR Q1, 中科院2区)__
-7. Yuchen Lu#, __Yuxuan Zhang#__, Hongbing Liu, Sebastian Bader. (2026). "TinyLSN: A Lightweight Network for Real-Time Marine Pipeline Leakage Detection in IoT Systems." _IEEE Internet of Things Journal_. __(IF 8.9, JCR Q1, 中科院2区Top)__
+7. Yuchen Lu#, __Yuxuan Zhang#__, Hongbing Liu, Sebastian Bader. (2026). "[TinyLSN: A Lightweight Network for Real-Time Marine Pipeline Leakage Detection in IoT Systems](https://ieeexplore.ieee.org/document/11396923)." _IEEE Internet of Things Journal_. __(IF 8.9, JCR Q1, 中科院2区Top)__
 
 __Conference Papers__
 1. __Yuxuan Zhang__, Sebastian Bader*, Bengt Oelmann. (2022). "[A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions](https://ieeexplore.ieee.org/document/9881386)." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6.
