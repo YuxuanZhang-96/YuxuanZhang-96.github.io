@@ -16,7 +16,7 @@ I am one of the 2024, 2025 IEEE TIM Outstanding Reviewer, one of the ten 2025 In
 
 //[Review Records](https://www.webofscience.com/wos/author/record/KHC-7517-2024)//
 
-ACM Computing Survey, <br>
+ACM Computing Surveys, <br>
 ACM Conference on Embedded Networked Sensor Systems, <br>
 IEEE Internet of Things Journal,  <br>
 IEEE Trans. on Industrial Informatics,  <br>
