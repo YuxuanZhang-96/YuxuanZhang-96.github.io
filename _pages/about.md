@@ -22,6 +22,7 @@ IEEE Internet of Things Journal,  <br>
 IEEE Trans. on Industrial Informatics,  <br>
 IEEE Trans. on Instrumentation and Measurement,  <br>
 IEEE Sensors Journal,  <br>
+IEEE Sensors Letters, <br>
 IEEE Sensors Applications Symposium (SAS), <br>
 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), <br>
 Mechanical Systems and Signal Processing,  <br>
@@ -40,7 +41,7 @@ Information Processing in Agriculture,  <br>
 Computers and Electronics in Agriculture,  <br>
 Sensors and Actuators A: Physical.
 
-Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/), IEEE, IEEE Sensors Council and Chinese Mechanical Engineering Society.
+Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/), IEEE, IEEE Sensors Council and a senior member of Chinese Mechanical Engineering Society.
 
 Background
 ======
