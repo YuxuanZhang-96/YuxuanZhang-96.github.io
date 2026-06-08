@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on 2026.03.31
+Updated on 2026.06.08
 ======
 
 Work Experience
@@ -50,7 +50,11 @@ __Journal Papers__
 11. __Yuxuan Zhang\*__, Arne Nürnberg, Luciano Sebastian Martinez Rau, Quynh Nguyen Phuong Vu, Yuchen Lu, Bengt Oelmann, Sebastian Bader. (2026). "[TinyML Pipeline for Efficient Crack Classification in UAV-based Structural Health Inspections](https://www.nature.com/articles/s41598-026-43534-4)." _Scientific Reports_, 16, 8964. __(IF 3.9, JCR Q1, 中科院3区)__
 12. Shengchen Yang, Zhen Wang, Xiangsen Han, Shuohan Ge, Dongliang Zhang, __Yuxuan Zhang\*__. (2026). "[Accurate infrared interferometric thickness measurement of Silicon carbide epitaxial layers using dynamic refractive index correction](https://www.tandfonline.com/doi/full/10.1080/10589759.2026.2653119)." _Nondestructive Testing and Evaluation_, 1-26. __(IF 4.2, JCR Q1, 中科院2区)__
 13. __Yuxuan Zhang__, Yuchen Lu\*, Luciano Sebastian Martinez-Rau, Zhegnqiang Fan, Quan Qiu\*, Brendan O'Flynn, Sebastian Bader. (2026). "[TinyML-Enabled IoT Edge Framework with Knowledge Distillation for Weed Classification](https://ieeexplore.ieee.org/document/11458579)." _IEEE Internet of Things Journal_. __(IF 8.9, JCR Q1, 中科院1区Top)__
-14. Chaoyue Han, Shuo Kang\*, Lipengcheng Wan, Dongdong Du\*, __Yuxuan Zhang\*__, Yuchen Lu, Jun Wang. (2026). "Tactile Sensing-Based Measurement and Correlation Analysis for Peach Ripeness Assessment." _IEEE Transactions on Instrumentation and Measurement_, 1-10 __(IF 5.9, JCR Q1, 中科院2区Top)__(Accepted)
+14. Chaoyue Han, Shuo Kang\*, Lipengcheng Wan, Dongdong Du\*, __Yuxuan Zhang\*__, Yuchen Lu, Jun Wang. (2026). "[Tactile Sensing-Based Measurement and Correlation Analysis for Peach Ripeness Assessment](https://ieeexplore.ieee.org/abstract/document/11512032)." _IEEE Transactions on Instrumentation and Measurement_, 1-10 __(IF 5.9, JCR Q1, 中科院2区Top)__
+15. Minqiu Kuang, Xiaojian Li, Bei Wu, Dawei Liu, Yang Xiang, Feng Liu, Xiangjun Zou, Fangping Xie\*, __Yuxuan Zhang\*__, Xu Li\*. (2026). "[CF-DETR: A Robust Transformer-Based Framework for Small-Scale Chili Flower Detection in Industrial Chili Production Systems](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1824412/full)."  _Frontiers in Plant Science_. __(IF 4.8, JCR Q1, 中科院2区Top)__
+16. __Yuxuan Zhang__, Yuchen Lu\*, Dun Li, Sebastian Bader, Enrico Zio. (2026). "[Dynamic Causal Graph Network for Reliable Pipeline Leak Detection](https://www.sciencedirect.com/science/article/pii/S095183202600606X)." _Reliability Engineering & Ststem Safety_. __(IF 11.0, JCR Q1, 中科院1区Top)__
+17. Yunjie Li, Yuqian Huang, Yuchen Lu, Minqiu Kuang, Yuhang Wu, Dafang Guo, Zhengiang Fan, Li Yang, __Yuxuan Zhang\*__. (2026). "[WAGENet: A Hardware-Aware Lightweight Network for Real-Time Weed Identification on Low-Power Resource-Constrained MCUs](https://www.mdpi.com/2077-0472/16/10/1086)." _Agriculture_. __(IF 3.6, JCR Q1, 中科院2区)__
+18. Minqiu Kuang, Yushi Wang, Xiaojian Li, Dawei Liu, Yang Xiang, Feng Liu, Xiangjun Zou, Fangping Xie\*, __Yuxuan Zhang\*__, Xu Li\*. (2026). "[CFPR-YOLO: Chili Flower Pose Estimation for Robotic Pollination in Unstructured Environments](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1861155/full)."  _Frontiers in Plant Science_. __(IF 4.8, JCR Q1, 中科院2区Top)__
 
 __Conference Papers__
 1. __Yuxuan Zhang__, Sebastian Bader\*, Bengt Oelmann. (2022). "[A Lightweight Convolutional Neural Network Model for Concrete Damage Classification using Acoustic Emissions](https://ieeexplore.ieee.org/document/9881386)." In _2022 IEEE Sensors Applications Symposium (SAS)_, 1-6.
@@ -67,6 +71,7 @@ __Journals__
 4. Renjie He, Qinxu Zhang, Chunlu Wang, Zubin Chen\*, __Yuxuan Zhang__, Sebasitan Bader. (2025). "[Low-SNR Microseismic Source Localization via Multi-Scale Convolutional Network with Coordinate Attention](https://ieeexplore.ieee.org/document/11303912)". _IEEE Transactions on Instrumentation and Measurement_. __(IF 5.9, JCR Q1, 中科院2区)__
 5. Yuchen Lu, __Yuxuan Zhang__, Xiaolong Qiu, Weizhe Ren, Chuanyang Zhao, Menghan Chen, Yifei Li, Sebastian Bader, Hongbing Liu\*, "[Structural Health Monitoring of Offshore Pipelines via A Novel Spatial-Topological Adaptive Graph Neural Network](https://journals.sagepub.com/doi/10.1177/14759217261418056?utm_source=researchgate.net&utm_medium=article)." _Structural Health Monitoring_. __(IF 5.7, JCR Q1, 中科院2区)__
 6. Wenyan Sun, Feifei Xie\*, __Yuxuan Zhang__, Liangrui Wei, Fuzheng Chu, Xiaoyu Tang. (2026). "[FDE: A Frequency-Domain Enhancement method for object detection in complex traffic scenes](https://www.sciencedirect.com/science/article/pii/S1077314226000445)." _Computer Vision and Image Understanding_. __(IF 3.5, JCR Q2, 中科院3区, CCF B)__
+7. Renjie He, Qinxu Zhang, Chunlu Wang, Zhiwen Li, Zubin Chen\*, __Yuxuan Zhang__, Sebastian Bader. (2026). "[Robust Microseismic Denoising via Multivariate Singular Spectrum Analysis Coupled with Frequency-Domain-Aware U-Net](https://ieeexplore.ieee.org/abstract/document/11500509)." _IEEE Transactions on Geoscience and Remote Sensing_. __(IF 8.6, JCR Q1, 中科院1区Top)__
 
   
 __Conference Papers__
@@ -79,6 +84,7 @@ __Conference Papers__
 7. Wei Li, Xiaochun Wu, Xiaoxi Hu, __Yuxuan Zhang__, Sebastian Bader, Yuhan Huang\*. (2025). "[LD-RPMNet: Near-Sensor Diagnosis for Railway Point Machines](https://ieeexplore.ieee.org/document/11105111)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6.
 8. Quynh Nguyen Phuong Vu\*, Luciano Sebastian Martinez Rau, __Yuxuan Zhang__, Duc Nko Tran, Bengt Oelmann, Michele Magno and Sebastian Bader. (2025). "[Efficient Continual Learning in Keyword Spotting using Binary Neural Networks](https://ieeexplore.ieee.org/document/11105106)." In _2025 IEEE Sensors Applications Symposium (SAS)_, 1-6.
 9. Luciano Sebastian Martinez-Rau\*, Quynh Nguyen Phuong Vu, __Yuxuan Zhang__, Bengt Oelmann and Sebastian Bader. (2025). "[Adaptive Noise Resilient Keyword Spotting Using One-Shot Learning](https://ieeexplore.ieee.org/document/11270573)." In _2025 IEEE 11th World Forum on Internet of Things (WF-IoT)_, pp. 1–6.
+10. Yihan Wang\*, Junyu Wu, Youchang Wang, Xin Zhao, __Yuxuan Zhang__, Sebastian Bader. (2026). "Quantification of Wind Turbine Blade Damage based on Transfer Learning" In _2026 IEEE Sensors Applications Symposium (SAS)_, 1-6. (Accepted)
 
 __Licentiate Thesis, Comprehensive Summaries__
 1. __Yuxuan Zhang__. (2024). "[Tiny Machine Learning for Structural Health Monitoring with Acoustic Emissions](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1857441&dswid=-6455)." Lic. (Comprehensive summary) Sundsvall : Mid Sweden University, 2024 (Mid Sweden University licentiate thesis : 204)
