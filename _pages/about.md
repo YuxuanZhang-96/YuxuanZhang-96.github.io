@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(2026.03.31 Updated)
+(2026.06.08 Updated)
 
 I am currently an Assistant Professor (Lecturer) at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
-My research interests include EdgeAI, IoT and their applications in Structural Health Monitoring, Smart Agriculture and Industrial Maintenance.  I have published 30+ papers in peer-reviewed journals and conferences such as IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, IEEE International Instrumentation and Measurement Technology Conference (I2MTC), IEEE Sensors Applications Symposium (SAS), IEEE World Forum on Internet of Things (WF-IoT), Nondestructive Testing and Evaluation, Engineering Structures, Frontiers in Plant Science, Structural Health Monitoring, Computer Vision and Image Understanding, Journal of King Aaud University Computer and Information Sciences, Scientific Reports. 
+My research interests include intelligent sensing systems (such as EdgeAI and TinyML) for agriculture and structural health monitoring.  I have published 40+ papers in peer-reviewed journals and conferences such as Reliability Engineering & System Safety, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, IEEE Transactions on Industrial Informatics, IEEE Transactions on Geoscience and Remote Sensing and IEEE International Instrumentation and Measurement Technology Conference (I2MTC). 
 
 I am one of the 2024, 2025 IEEE TIM Outstanding Reviewer, one of the ten 2025 Information Processing in Agriculture Outstanding Reviewer, and also served as a reviewer for several prestigious journals and conferences, such as:
 
@@ -21,6 +21,7 @@ ACM Conference on Embedded Networked Sensor Systems, <br>
 IEEE Internet of Things Journal,  <br>
 IEEE Trans. on Industrial Informatics,  <br>
 IEEE Trans. on Instrumentation and Measurement,  <br>
+IEEE Trans. on Multimedia ,  <br>
 IEEE Sensors Journal,  <br>
 IEEE Sensors Letters, <br>
 IEEE Sensors Applications Symposium (SAS), <br>
