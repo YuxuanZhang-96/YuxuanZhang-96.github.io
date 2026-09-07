@@ -6,11 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(2026.06.08 Updated)
+(2026.Sept.06 Updated)
 
-I am currently an Assistant Professor (Lecturer) at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
+I am currently an Assistant Professor (Lecturer) in Embedded Systems and IoT at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
-My research interests include intelligent sensing systems (such as EdgeAI and TinyML) for agriculture and structural health monitoring.  I have published 40+ papers in peer-reviewed journals and conferences such as Reliability Engineering & System Safety, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, IEEE Transactions on Industrial Informatics, IEEE Transactions on Geoscience and Remote Sensing and IEEE International Instrumentation and Measurement Technology Conference (I2MTC). 
+My research interests include intelligent sensing systems (such as EdgeAI and TinyML) for smart agriculture and structural health monitoring.  I have published 60+ papers in peer-reviewed journals and conferences such as Reliability Engineering & System Safety, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, IEEE Transactions on Industrial Informatics, IEEE Transactions on Geoscience and Remote Sensing and IEEE International Instrumentation and Measurement Technology Conference (I2MTC). 
+
+Since 2026. Sept., I am an Associate Editor of IEEE Transactions on AgriFood Electronics, and also a Guest Topic Editor of Frontiers in Acoustics. 
 
 I am one of the 2024, 2025 IEEE TIM Outstanding Reviewer, one of the ten 2025 Information Processing in Agriculture Outstanding Reviewer, and also served as a reviewer for several prestigious journals and conferences, such as:
 
