@@ -12,7 +12,7 @@ I am currently an Assistant Professor (Lecturer) in Embedded Systems and IoT at 
 
 My research interests include intelligent sensing systems (such as EdgeAI and TinyML) for smart agriculture and structural health monitoring. I have published 60+ papers in peer-reviewed journals and conferences such as Reliability Engineering & System Safety, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, IEEE Transactions on Industrial Informatics, IEEE Transactions on Geoscience and Remote Sensing and IEEE International Instrumentation and Measurement Technology Conference (I2MTC). 
 
-Since 2026.09., I am an Associate Editor of IEEE Transactions on AgriFood Electronics, and also a Guest Topic Editor of Frontiers in Acoustics. 
+Since 2026.09., I am an Associate Editor of IEEE Transactions on AgriFood Electronics, an Editorial Board Member of Scientific Reports, and also a Guest Topic Editor of Frontiers in Acoustics. 
 
 I am one of the 2024, 2025 IEEE TIM Outstanding Reviewer, one of the ten 2025 Information Processing in Agriculture Outstanding Reviewer, and also served as a reviewer for several prestigious journals and conferences, such as:
 
