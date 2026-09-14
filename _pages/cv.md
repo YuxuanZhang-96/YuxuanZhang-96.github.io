@@ -32,6 +32,7 @@ TinyML, On-device Training, Nondestructive Testing, Smart Sensing and Measuremen
 Service and Leadership
 ======
 * Associate Editor                          - IEEE Transactions on AgriFood Electronics. (since 2026)
+* Editorial Board Member                    - Scientific Reports. (since 2026)
 * Guest Topic Editor                        - Frontiers in Acoustics. (since 2026)
 * 2024, 2025 Outstanding Reviewer           - IEEE Transactions on Instrumentation and Measurement.
 * 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
