@@ -29,14 +29,19 @@ Research Interests
 ======
 TinyML, On-device Training, Nondestructive Testing, Smart Sensing and Measurement Systems in Structural Health Monitoring, Smart Agriculture and Industrial Maintenance.
 
+Awards
+======
+* 2024, 2025 Outstanding Reviewer           - IEEE Transactions on Instrumentation and Measurement.
+* 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
+* ESI Highly Cited Paper                    - Yuchen Lu, Yifei Li, Hongbing Liu, Yuxuan Zhang, Xin Wang, Menghan Chen, Chuanyang Zhao, M Abdel Wahab. 2026. "Learning Multi-Dimensional Sensor Relationships for Robust Marine Pipeline Leakage Non-destructive Detection via Adaptive Graph Networks". Engineering Structures
+* Oct. 2026 Highlight Paper                 - Yuchen Lu, Yuxuan Zhang, Hongbing Liu, Sebastian Bader. 2026. "TinyLSN: a lightweight network for real-time marine pipeline leakage detection in IoT systems". IEEE Internet of Things Journal
+
 Service and Leadership
 ======
 * Associate Editor                          - IEEE Transactions on AgriFood Electronics. (since 2026)
 * Associate Editor                          - Information Processing in Agriculture. (since 2026)
 * Editorial Board Member                    - Scientific Reports. (since 2026)
 * Guest Topic Editor                        - Frontiers in Acoustics. (since 2026)
-* 2024, 2025 Outstanding Reviewer           - IEEE Transactions on Instrumentation and Measurement.
-* 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
 * Special Session Organizer                 - 2026 IEEE International Instrumentation and Measurement Technology Conference, special session "AI-Enhanced Measurement and Instrumentation Systems for Smart Agriculture".
 * Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
 * Session Chair                             - 2022 IEEE Sensors Applications Symposium, regular seesion "Novel Sensing Technologies".
