@@ -46,6 +46,10 @@ Service and Leadership
 * Special Session Organizer                 - 2026 IEEE International Instrumentation and Measurement Technology Conference, special session "AI-Enhanced Measurement and Instrumentation Systems for Smart Agriculture".
 * Special Session Organizer & Session Chair - 2025 IEEE Sensors Applications Symposium, special session "Pushing Intelligence to the Edge: Advances in Low-Power AI and Near-Sensor Computing for Smart Systems".
 * Session Chair                             - 2022 IEEE Sensors Applications Symposium, regular seesion "Novel Sensing Technologies".
-* Member                                    - IEEE Instrumentation and Measurement Society, IEEE, IEEE Sensors Council.
-* Senior Member                             - Chinese Mechanical Engineering Society.
 * Reviewer                                  - ACM Computing Surveys, IEEE T-IM, IEEE T-II, IEEE T-MM, IEEE Internet of Things Journal, IEEE Sensors Journal, Measurement, MSSP, ESWA, EAAI, RESS, IEEE SAS, IEEE I2MTC, SHM-An International Journal, Computers and Electronics in Agriculture, Information Processing in Agriculture and others.
+
+Membership
+======
+* Member                                    - IEEE, IEEE Instrumentation and Measurement Society, IEEE Sensors Council.
+* Senior Member                             - Chinese Mechanical Engineering Society.
+* Member.                                   - Chinese Association of Automation
