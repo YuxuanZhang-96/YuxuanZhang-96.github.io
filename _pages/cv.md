@@ -31,7 +31,8 @@ TinyML, On-device Training, Nondestructive Testing, Smart Sensing and Measuremen
 
 Awards
 ======
-* 2024, 2025 Outstanding Reviewer           - IEEE Transactions on Instrumentation and Measurement.
+* 2024 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
+* 2025 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
 * 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
 * ESI Highly Cited Paper                    - Yuchen Lu, Yifei Li, Hongbing Liu, Yuxuan Zhang, Xin Wang, Menghan Chen, Chuanyang Zhao, M Abdel Wahab. 2026. "Learning Multi-Dimensional Sensor Relationships for Robust Marine Pipeline Leakage Non-destructive Detection via Adaptive Graph Networks". Engineering Structures
 * Oct. 2026 Highlight Paper                 - Yuchen Lu, Yuxuan Zhang, Hongbing Liu, Sebastian Bader. 2026. "TinyLSN: a lightweight network for real-time marine pipeline leakage detection in IoT systems". IEEE Internet of Things Journal
