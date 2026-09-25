@@ -34,7 +34,6 @@ Awards
 * 2024 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
 * 2025 Outstanding Reviewer                 - IEEE Transactions on Instrumentation and Measurement.
 * 2025 Outstanding Reviewer                 - Information Processing in Agriculture.
-* Oct. 2026 Highlight Paper                 - Yuchen Lu, Yuxuan Zhang, Hongbing Liu, Sebastian Bader. 2026. "TinyLSN: a lightweight network for real-time marine pipeline leakage detection in IoT systems". IEEE Internet of Things Journal
 
 Service and Leadership
 ======
