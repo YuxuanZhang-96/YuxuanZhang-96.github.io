@@ -48,6 +48,6 @@ Service and Leadership
 
 Membership
 ======
-* Member                                    - IEEE, IEEE Instrumentation and Measurement Society, IEEE Sensors Council.
+* Senior Member                             - IEEE, IEEE Instrumentation and Measurement Society, IEEE Sensors Council.
 * Senior Member                             - Chinese Mechanical Engineering Society.
 * Member                                    - Chinese Association of Automation
