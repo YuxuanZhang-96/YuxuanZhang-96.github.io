@@ -8,7 +8,7 @@ redirect_from:
 ---
 (2026.09 Updated)
 
-I am currently an Assistant Professor (Lecturer) in Embedded Systems and IoT at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
+I (Yuxuan Zhang, IEEE Senior Member) am currently an Assistant Professor (Lecturer) in Embedded Systems and IoT at the [College of Intelligent Science and Engineering](https://en.bua.edu.cn/Colleges___Faculties/College_of_Intelligent_Science_and_Engineering.htm) of [Beijing Agricultural University](https://en.bua.edu.cn/) and an Affiliated Researcher at the [Department of Computer and Electrical Engineering](https://www.miun.se/en/meet-mid-sweden-university/Organisation/departments/det/), [Mid Sweden University](https://www.miun.se/en/).
 
 My research interests include intelligent sensing systems (such as EdgeAI and TinyML) for smart agriculture and structural health monitoring. I have published 60+ papers in peer-reviewed journals and conferences (7 ESI Highly Cited Papers, 5 ESI Hot Papers, 1 IEEE IoTJ 2026 Oct. Highlight Paper) such as Reliability Engineering & System Safety, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, IEEE Transactions on Industrial Informatics, IEEE Transactions on Geoscience and Remote Sensing and IEEE International Instrumentation and Measurement Technology Conference (I2MTC). 
 
@@ -44,7 +44,7 @@ Information Processing in Agriculture,  <br>
 Computers and Electronics in Agriculture,  <br>
 Sensors and Actuators A: Physical.
 
-Currently, I am also a member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/), IEEE, IEEE Sensors Council and a senior member of Chinese Mechanical Engineering Society.
+Currently, I am also a senior member of the [IEEE Instrumentation and Measurement Society](https://ieee-ims.org/), IEEE, IEEE Sensors Council and a senior member of Chinese Mechanical Engineering Society.
 
 Background
 ======
